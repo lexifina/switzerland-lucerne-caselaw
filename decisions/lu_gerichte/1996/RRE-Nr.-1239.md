@@ -1,0 +1,47 @@
+---
+decision_id: "lu_gerichte_RRE_Nr._1239"
+court: "LU Gerichte"
+court_id: "lu_gerichte"
+docket: "RRE Nr. 1239"
+docket_2: "1996 III Nr. 3"
+decided: "1996-06-11"
+language: "de"
+source_url: "https://gerichte.lu.ch/recht_sprechung/lgve/Ajax?EnId=2157"
+cites_law: ["switzerland/bund/acts/741.01/art-017.md", "switzerland/bund/acts/741.51/art-033.md"]
+---
+
+# LU Gerichte RRE Nr. 1239
+
+## Regeste
+
+Führerausweisentzug. Erneutes Fehlverhalten. Artikel 17 Absatz 1b und d SVG. Ist der Entzug des Führerausweises wegen Fahrens in angetrunkenem Zustand angeordnet, aber noch nicht vollzogen, wenn der Führer erneut in diesem Zustand fährt, liegt kein Rückfall im Sinn von Artikel 17 Absatz 1d SVG vor. Die zeitliche Nähe des erneuten Fehlverhaltens zur Entzugsverfügung und die ihr zugrunde liegende Einsichtslosigkeit sind jedoch bei der Festsetzung der Entzugsdauer zu berücksichtigen. | Strassenverkehrsrecht
+
+## Text
+
+Luzern Kantonsgericht sonstige 11.06.1996 RRE Nr. 1239 (1996 III Nr. 3)
+
+Führerausweisentzug. Erneutes Fehlverhalten. Artikel 17 Absatz 1b und d SVG. Ist der Entzug des Führerausweises wegen Fahrens in angetrunkenem Zustand angeordnet, aber noch nicht vollzogen, wenn der Führer erneut in diesem Zustand fährt, liegt kein Rückfall im Sinn von Artikel 17 Absatz 1d SVG vor. Die zeitliche Nähe des erneuten Fehlverhaltens zur Entzugsverfügung und die ihr zugrunde liegende Einsichtslosigkeit sind jedoch bei der Festsetzung der Entzugsdauer zu berücksichtigen. | Strassenverkehrsrecht
+
+Rechtsprechung Luzern
+Instanz:
+Regierungsrat
+Abteilung:
+-
+Rechtsgebiet:
+Strassenverkehrsrecht
+Entscheiddatum:
+11.06.1996
+Fallnummer:
+RRE Nr. 1239
+LGVE:
+1996 III Nr. 3
+Leitsatz:
+Führerausweisentzug. Erneutes Fehlverhalten. Artikel 17 Absatz 1b und d SVG. Ist der Entzug des Führerausweises wegen Fahrens in angetrunkenem Zustand angeordnet, aber noch nicht vollzogen, wenn der Führer erneut in diesem Zustand fährt, liegt kein Rückfall im Sinn von Artikel 17 Absatz 1d SVG vor. Die zeitliche Nähe des erneuten Fehlverhaltens zur Entzugsverfügung und die ihr zugrunde liegende Einsichtslosigkeit sind jedoch bei der Festsetzung der Entzugsdauer zu berücksichtigen.
+Rechtskraft:
+Diese Entscheidung ist rechtskräftig.
+Entscheid:
+1. Am 10. Januar 1993 entzog das Strassenverkehrsamt des Kantons Luzern S in Anwendung von Art. 16 Abs. 3b des Bundesgesetzes über den Strassenverkehr vom 19. Dezember 1958 (SVG) sowie Art. 32 Abs. 1 der Verordnung über die Zulassung von Personen und Fahrzeugen zum Strassenverkehr vom 27. Oktober 1976 (VZV) den Führerausweis für die Dauer von vier Monaten wegen Führens eines Personenwagens in angetrunkenem Zustand. Die von S gegen diese Verfügung erhobene Verwaltungsbeschwerde wies der Regierungsrat ab. S fuhr am 18. Januar 1993 erneut in angetrunkenem Zustand. Nach Abschluss des Strafverfahrens entzog das Strassenverkehrsamt mit Verfügung vom 1. Mai 1995 den Führerausweis für 15 Monate. Mit Verfügung vom 21. Juli 1995 reduzierte es die Entzugsdauer auf 12 Monate. S erhob gegen beide Verfügungen Verwaltungsbeschwerde.
+2. Gemäss Art. 17 Abs. 1 SVG ist die Dauer des Entzugs von Führer- oder Lernfahrausweisen nach den Umständen festzusetzen. Sie beträgt jedoch nach Unterabs. b dieser Bestimmung mindestens 2 Monate, wenn der Führer in angetrunkenem Zustand gefahren ist.
+3. Wie der Beschwerdeführer in seinen Eingaben zutreffend vorbringt, hat die Vorinstanz in den Verfügungen vom 1. Mai bzw. 21. Juli 1995 zu Recht nicht die Bestimmung von Art. 17 Abs. 1d SVG angewendet. Nach ihrem Wortlaut findet diese Bestimmung nur dann Anwendung, wenn der Führer innert fünf Jahren "seit Ablauf eines früheren Entzuges" wegen Fahrens in angetrunkenem Zustand erneut in diesem Zustand gefahren ist. Im vorliegenden Fall hat der Beschwerdeführer innert acht Tagen seit Erlass der erstinstanzlichen Verfügung und nicht seit Ablauf des früheren Entzuges erneut in angetrunkenem Zustand ein Motorfahrzeug gelenkt. Dennoch ist der frühere Vorfall vom 2. November 1992 bei der Beurteilung des vorliegend zu beurteilenden Vorfalles nicht ausser acht zu lassen. Bei der Bemessung der Entzugsdauer ist nebst der Schwere des Verschuldens sowie der beruflichen Notwendigkeit, ein Motorfahrzeug zu führen, gerade auch der automobilistische Leumund eines Motorfahrzeugführers zu berücksichtigen (Art. 33 Abs. 2 VZV; BGE 105 Ib 207 E. 2a).
+4. Die Mindestentzugsdauer bei Fahren in angetrunkenem Zustand beträgt gemäss Art. 17 Abs. 1b SVG zwei Monate. Nach Art. 17 Abs. 1d SVG beträgt die Mindestentzugsdauer mindestens ein Jahr, wenn der oder die Betroffene innert fünf Jahren seit Ablauf eines früheren Entzuges wegen Fahrens in angetrunkenem Zustand erneut in diesem Zustand gefahren ist. Bei den vorliegenden Umständen würde bei einem Rückfall in diesem Sinne nach konstanter Praxis eine Entzugsdauer von 19 Monaten ausgesprochen. Im vorliegenden Fall ist indessen zu beachten, dass der Beschwerdeführer die Folgen und damit die bessernde Wirkung eines Führerausweisentzuges noch nicht gespürt hatte, bevor er am 18. Januar 1993 erneut in angetrunkenem Zustand fuhr, weshalb kein Rückfall im Sinne von Art. 17 Abs. 1d SVG vorliegt. Aus diesem Grunde kann die auszusprechende Entzugsdauer nicht in der Nähe der 19 Monate eines Rückfalles festgesetzt werden. Ansonsten würde die einem Führerausweisentzug vom Gesetz zugesprochene Besserungswirkung negiert. Dies wäre nicht zulässig. Dagegen wird die gesetzliche Mindestentzugsdauer nach konstanter Praxis für Fälle vorbehalten, bei denen die Blutalkoholkonzentration im Bereich von 0,8 Gewichtspromillen liegt und der oder die Betroffene zudem erstmalig in angetrunkenem Zustand gefahren ist. Da es sich beim vorliegenden Fall nicht um ein erstmaliges Fahren in angetrunkenem Zustand handelt, kann nicht die Mindestentzugsdauer verfügt werden. Der Beschwerdeführer hat nur acht Tage nach Erlass der Verfügung vom 10. Januar 1993 erneut in angetrunkenem Zustand ein Motorfahrzeug gelenkt. Durch dieses erneute Fehlverhalten nur wenige Tage nach Erlass einer Entzugsverfügung bringt der Beschwerdeführer ganz offensichtlich zum Ausdruck, dass ihn der verfügte Führerausweisentzug in keiner Art und Weise beeindruckt hat und er daraus keine Lehre gezogen hat. Ein derartiges Verhalten zeugt von fehlender Einsicht in die Gefährlichkeit des Fahrens in angetrunkenem Zustand und weist auf eine gewisse Unverfrorenheit und Gleichgültigkeit gegenüber der Sicherheit der anderen Verkehrsteilnehmer hin.
+Diese zeitliche Nähe der beiden Vorfälle und das einsichtslose Verhalten sind bei der Festsetzung der Entzugsdauer zu würdigen. Obwohl Art. 17 Abs. 1d SVG - wie dargelegt - im vorliegenden Fall keine Anwendung findet, kann die Administrativbehörde sich an der Mindestentzugsdauer bei Rückfall orientieren (vgl. unveröffentlichter BGE 6 A.1/1996 vom 11. März 1996). Unter Berücksichtigung der gesamten Umstände - insbesondere der zeitlichen Nähe der Vorfälle, des einsichtslosen Verhaltens sowie der noch nicht vollzogenen Massnahme - erscheint im vorliegenden Fall eine Entzugsdauer von 10 Monaten als angezeigt und gerechtfertigt.
