@@ -1,0 +1,71 @@
+---
+decision_id: "lu_gerichte_RRE_Nr._1827"
+court: "LU Gerichte"
+court_id: "lu_gerichte"
+docket: "RRE Nr. 1827"
+docket_2: "1992 III Nr. 17"
+decided: "1992-07-07"
+language: "de"
+source_url: "https://gerichte.lu.ch/recht_sprechung/lgve/Ajax?EnId=2093"
+cites_law: ["switzerland/bund/acts/700/art-022.md"]
+---
+
+# LU Gerichte RRE Nr. 1827
+
+## Regeste
+
+Veränderungen an Bauten, die über die Strassenabstands- oder Baulinien hinausragen. § 82 Abs. 1 und 2 StrG. Veränderungen an einer Baute, die über die Strassenabstands- oder Baulinie hinausragt, erfordern eine Ausnahmebewilligung nach § 82 Abs. 2 StrG, wenn sie über den ordentlichen Unterhalt nach § 82 Abs. 1 StrG hinausgehen. Dieser liegt vor, wenn die vorhandene innere und äussere Gestaltung, die Form und die Zweckbestimmung bestehen bleiben, also nur die mangelhaften Teile ersetzt oder instandgestellt werden. - Vermehrter Autoverkehr auf der Zufahrt zum Baugrundstück ist im Hinblick auf das Erfordernis einer Ausnahmebewilligung ohne Bedeutung, wenn er sich nicht zugleich auf die Flüssigkeit und Sicherheit des Strassenverkehrs auswirkt. | Planungs- und Baurecht
+
+## Text
+
+Luzern Kantonsgericht sonstige 07.07.1992 RRE Nr. 1827 (1992 III Nr. 17)
+
+Veränderungen an Bauten, die über die Strassenabstands- oder Baulinien hinausragen. § 82 Abs. 1 und 2 StrG. Veränderungen an einer Baute, die über die Strassenabstands- oder Baulinie hinausragt, erfordern eine Ausnahmebewilligung nach § 82 Abs. 2 StrG, wenn sie über den ordentlichen Unterhalt nach § 82 Abs. 1 StrG hinausgehen. Dieser liegt vor, wenn die vorhandene innere und äussere Gestaltung, die Form und die Zweckbestimmung bestehen bleiben, also nur die mangelhaften Teile ersetzt oder instandgestellt werden. - Vermehrter Autoverkehr auf der Zufahrt zum Baugrundstück ist im Hinblick auf das Erfordernis einer Ausnahmebewilligung ohne Bedeutung, wenn er sich nicht zugleich auf die Flüssigkeit und Sicherheit des Strassenverkehrs auswirkt. | Planungs- und Baurecht
+
+Rechtsprechung Luzern
+Instanz:
+Regierungsrat
+Abteilung:
+-
+Rechtsgebiet:
+Planungs- und Baurecht
+Entscheiddatum:
+07.07.1992
+Fallnummer:
+RRE Nr. 1827
+LGVE:
+1992 III Nr. 17
+Leitsatz:
+Veränderungen an Bauten, die über die Strassenabstands- oder Baulinien hinausragen. § 82 Abs. 1 und 2 StrG. Veränderungen an einer Baute, die über die Strassenabstands- oder Baulinie hinausragt, erfordern eine Ausnahmebewilligung nach § 82 Abs. 2 StrG, wenn sie über den ordentlichen Unterhalt nach § 82 Abs. 1 StrG hinausgehen. Dieser liegt vor, wenn die vorhandene innere und äussere Gestaltung, die Form und die Zweckbestimmung bestehen bleiben, also nur die mangelhaften Teile ersetzt oder instandgestellt werden. - Vermehrter Autoverkehr auf der Zufahrt zum Baugrundstück ist im Hinblick auf das Erfordernis einer Ausnahmebewilligung ohne Bedeutung, wenn er sich nicht zugleich auf die Flüssigkeit und Sicherheit des Strassenverkehrs auswirkt.
+Rechtskraft:
+Diese Entscheidung ist rechtskräftig.
+Entscheid:
+Die Erbengemeinschaft ist Eigentümerin einer Parzelle, auf der ein 1923 gebautes Dreifamilienhaus steht, das zur Grenze der Kantonsstrasse einen Abstand von 1,63 m aufweist. Das Eingangspodest mit einer Abschlussmauer sowie der Balkon im ersten Obergeschoss grenzen unmittelbar an die Kantonsstrasse an.
+Als die Erbengemeinschaft im Jahr 1989 das Haus renovieren liess, erklärte der Gemeinderat die baulichen Veränderungen für bewilligungspflichtig. Der Gemeinderat überwies mit Brief vom 4. Oktober 1989 dem Baudepartement die Akten zur Prüfung, ob der Grundstückseigentümerin eine Ausnahmebewilligung nach § 82 des kantonalen Strassengesetzes (StrG) erteilt werden kann.
+Mit Entscheid vom 13. September 1991 verweigerte das Baudepartement die Erteilung einer Ausnahmebewilligung nach § 82 StrG. Gegen diesen Entscheid erhob die Erbengemeinschaft rechtzeitig Verwaltungsbeschwerde beim Regierungsrat.
+1. - a. Als erstes ist zu prüfen, ob die Umbauarbeiten unter die nach § 82 Abs. 1 StrG bewilligungspflichtigen Veränderungen fallen oder zum ordentlichen Unterhalt zählen.
+Die Vorinstanz hat die Bewilligungspflicht bejaht. Zur Begründung verwies sie auf die hohen Baukosten (Fr. 340 950.-) und den Einbau zusätzlicher Sanitär-Installationen sowie einer neuen Küche im Erdgeschoss. Dem widersprechen die Beschwerdeführer. Sie führen aus, es handle sich um eine sanfte Renovation. Alle Wohnungen hätten schon vorher Küchen und Bäder gehabt. Zusätzliche Duschen seien nicht installiert worden.
+b. Die Abgrenzung zwischen Arbeiten, die dem ordentliche Unterhalt dienen, und bewilligungspflichtigen Veränderungen ist im Einzelfall heikel. Bei der Auslegung von § 82 Abs. 1 StrG kann als Hilfsmittel die Rechtsprechung und Lehre zu der allgemeinen Baubewilligungspflicht nach Art. 22 des Bundesgesetzes über die Raumplanung (RPG) und §§ 184ff. des kantonalen Planungs- und Baugesetzes (PBG) herangezogen werden. Weiter ist der Zweck der Abstandsvorschriften im Strassengesetz zu berücksichtigen. Die Höhe der Baukosten darf dabei mitberücksichtigt werden. Sie eignet sich jedoch insbesondere bei älteren Gebäuden, deren Unterhalt naturgemäss aufwendiger ist, schlecht als ausschlaggebendes Kriterium.
+c. Nach Art. 22 Abs. 1 RPG dürfen Bauten und Anlagen nur mit behördlicher Bewilligung errichtet oder geändert werden. Bauten und Anlagen nach dieser Bestimmung sind mindestens jene künstlich geschaffenen und auf Dauer angelegten Einrichtungen, die in bestimmter fester Beziehung zum Erdboden stehen und geeignet sind, die Vorstellung über die Nutzungsordnung zu beeinflussen, sei es, dass sie den Raum äusserlich erheblich verändern, die Erschliessung belasten oder die Umwelt beeinträchtigen (EJPD/BRP, Erläuterungen zum Raumplanungsetz, Bern 1981, N6 zu Art. 22; GBE 113 Ib 316). Bauten und Anlagen sind somit alle bau- und planungsrechtlich relevanten äusseren Veränderungen von Grundstücken. Als Massstab dafür, ob eine Anlage oder bauliche Massnahme wichtig genug ist, um sie dem Baubewilligungsverfahren zu unterwerfen, ist darauf abzustellen, ob im allgemeinen, nach dem gewöhnlichen Lauf der Dinge ein nicht unerhebliches Interesse der Öffentlichkeit oder der Nachbarschaft an einer vorgängigen Kontrolle besteht (Dilger, Raumplanungsrecht der Schweiz, Zürich 1982, S. 232). Für die Beurteilung von baubewilligungspflichtigen Massnahmen ist auch das quantitative Moment von Bedeutung. Wesentliche Änderungen der baulichen Substanz durch Umwandlung des Verhältnisses der Innenräume unter sich oder ihres Bezuges zur äusseren Umgebung sowie Erweiterungen oder Verkleinerungen des Volumens einer Baute in horizontaler oder vertikaler Richtung bedürfen der Prüfung in einem baurechtlichen Verfahren. So ist beispielsweise bewilligungspflichtig: Entfernen, Versetzen oder Neuerstellen von Zwischenwänden, Ausbrechen oder Zumauern von Fenstern und Türen, Verändern der Raumaufteilung eines Gebäudes, Abbrechen und Ersetzen mit gleichzeitigem Anheben von Zwischendecken, Überdachen einer Terrasse, Neugestaltungen von Fassaden, Änderung der Dachneigung, Ersetzen einer Mauer aus Bruchstein durch eine Stützmauer aus Sichtbeton (vgl. Zimmerlin, Baugesetz des Kantons Aargau, Aarau 1985, NN 2c und 26 zu § 150; Mäder, Das Baubewilligungsverfahren, S. 97 f.). Im Gegensatz dazu sind blosse Unterhalts-, Instandstellungs- und Reparaturarbeiten bewilligungsfrei. Lediglich Gebäudeunterhalt liegt vor, wenn die vorhandene innere und äussere Gestaltung, Form- und Zweckbestimmung einer Baute bestehen bleiben, also nur die mangelhaften Teile ersetzt oder instand gestellt werden. Reparaturen sind kleinere Ausbesserungsarbeiten wie Auswechslung schadhaft gewordener Bauteile von untergeordneter Bedeutung. Bewilligungsfrei sind also alle der Erhaltung einer Baute oder dem Beheben von Schäden dienenden Arbeiten sowie die Erneuerung (Renovation), soweit sie dem normalen Unterhalt dient und gegenüber dem Bestehenden keine nach aussen sichtbaren Veränderungen mit sich bringt und die Sicherheit von Mensch und Sachen nicht verschlechtert (vgl. Mäder, a.a.O., S. 97f.; Zimmerlin, a.a.O., N 2c zu § 150).
+Gemäss den Baugesuchsunterlagen haben die Beschwerdeführer an ihrer Liegenschaft folgende Veränderungen vorgenommen:
+- Kaminsanierung gemäss feuerpolizeilichen Vorschriften,
+- Entfeuchten des Kellergeschosses,
+- Erstellen von Spenglerarbeiten in Kupferblech (Dachrinnen, Ablaufrohre, Sockelrohre usw.),
+- Einbau von Schallschutzfenstern,
+- Renovation des Treppengeländers (Schlosserarbeiten),
+- Renovation des Dachgeschossbodens,
+- Malerarbeiten im Innenbereich,
+- Instandstellen und Ergänzen der Elektroinstallationen,
+- Auffrischen der Parkettböden,
+- Demontage und Einbau von neuen Bad- und Küchenmöbeln,
+- Sanieren bestehender Holzöfen,
+- Auswechseln alter Ofenrohre,
+- Einbau eines neuen Ölofens pro Wohnung mit Zentralölversorgung vom Kellergeschoss aus.
+Nach der zitierten Literatur stellen die meisten der aufgezählten Bauarbeiten eindeutig nichtbewilligungspflichtige Instandstellungs- und Reparaturarbeiten dar. Die nach aussen sichtbaren Veränderungen sind sehr klein (gewisse Spenglerarbeiten sowie der Ersatz des Kamins). Interesse an einer öffentlichen Kontrolle besteht allenfalls für die Änderungen an der Heizung. Diese Kontrolle ist jedoch durch die speziellen feuerpolizeilichen und lufthygienischen Vorschriften für Heizungen ohnehin gewährleistet. Die Frage, ob die baulichen Veränderungen nach Art. 22 Abs. 1 RPG bewilligungspflichtig sind oder nicht, ist deshalb eher zu verneinen.
+d. Wie oben erwähnt, ist für die Beantwortung der Frage, ob die baulichen Veränderungen unter die Bewilligungspflicht nach § 82 StrG fallen, nicht ausschliesslich auf die Lehre und Praxis zu Art. 22 Abs. 1 RPG abzustellen. Vielmehr ist auch der Zweck der Abstandsvorschriften für Strassen gemäss den §§ 80 ff. StrG zu berücksichtigen.
+Bauten und Anlagen in unmittelbarer Nähe von Strassen können die Sichtweite der Verkehrsteilnehmer beeinträchtigen und damit die Sicherheit und Flüssigkeit des Verkehrs behindern. Ein weiteres Interesse für Strassenabstandsvorschriften hat die öffentliche Hand im Hinblick auf künftige Ausbauvorhaben. Diese lassen sich einfacher und kostengünstiger realisieren, wenn das zusätzliche Strassenterrain noch nicht überbaut ist. Die Abstandsvorschriften des Strassengesetzes dienen deshalb zum einen der Sicherheit und Flüssigkeit des Verkehrs, zum andern sollen sie Strassenverbreiterungen erleichtern.
+Mit den hier zu beurteilenden baulichen Veränderungen wird das Haus der Beschwerdeführer weder vergrössert noch der bestehende Abstand zur Kantonsstrasse verkleinert. Die Umbauten haben keine zusätzlichen Sichtbehinderungen für die Verkehrsteilnehmer zur Folge. Die Sicherheit und Flüssigkeit des Verkehrs wird durch das Bauvorhaben nicht tangiert, so dass unter diesem Aspekt nichts für eine Bewilligungspflicht spricht. Auch im Hinblick auf ein allfälliges künftiges Strassenbauvorhaben drängt sich eine Bewilligungspflicht nach § 82 StrG nicht ernsthaft auf. Zwar hätte der Kanton ein finanzielles Interesse, den Umbau der Bewilligungspflicht zu unterstellen, damit der geschaffene Mehrwert im Falle eines späteren Erwerbs der Baute für öffentliche Zwecke nicht mitberechnet werden müsste (vgl. § 82 Abs. 3 StrG). Da es sich beim Umbau - wie oben dargestellt - grösstenteils um Unterhaltsarbeiten handelt, dürfte der damit geschaffene Mehrwert allerdings nur gering sein. Zumal zurzeit keinerlei Anzeichen bestehen, dass das Haus der Beschwerdeführerin einmal für öffentliche Zwecke erworben werden muss, ist das lediglich mittelbare finanzielle Interesse der öffentlichen Hand nicht gewichtig genug, den Umbau allein aus diesem Grund der Bewilligungspflicht zu unterstellen.
+e. Zusammenfassend ist festzuhalten, dass die hier zu beurteilenden Umbauarbeiten nicht der Bewilligungspflicht nach § 82 Abs. 1 StrG unterstehen. Der angefochtene Entscheid ist deshalb aufzuheben.
+2. - Zu bemerken bleibt, dass die Vorinstanz - angenommen, der Umbau unterstünde der Bewilligungspflicht nach § 82 Abs. 1 StrG - die Ausnahmebewilligung zu Unrecht verweigert hätte.
+Die Vorinstanz verweigerte die Ausnahmebewilligung, weil sie - abstellend auf eine Stellungnahme des Gemeinderates - davon ausging, der Umbau stelle eine Zweck- und Nutzungsänderung dar, die vermehrten Verkehr bringe. Die Beschwerdeführerin widerspricht der Behauptung, der Umbau bringe vermehrten Autoverkehr mit sich.
+Welche Sachverhaltsdarstellung zutreffend ist, kann vorliegend offenbleiben. Denn die Probleme im Zusammenhang mit der Zufahrt zur Kantonsstrasse sind nicht mit den Abstandsvorschriften gemäss den §§ 80 ff. StrG, sondern mit § 21 StrG zu lösen. Die Zufahrtsvorschriften und die Abstandsregelung sind klar voneinander zu trennen. Bei der Prüfung, ob die Voraussetzungen für die Erteilung einer Ausnahmebewilligung nach § 82 Abs. 2 StrG erfüllt sind, ist einzig zu untersuchen, ob und wie sich die baulichen Veränderungen am Gebäude auf den Verkehrsfluss und die Verkehrssicherheit auswirken und ob dadurch ein künftiges Strassenausbauvorhaben beeinträchtigt wird. Bei der Auslegung von § 82 StrG darf es deshalb keine Rolle spielen, ob der Umbau vermehrten Autoverkehr bringt oder nicht.
