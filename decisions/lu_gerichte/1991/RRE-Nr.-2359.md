@@ -1,0 +1,57 @@
+---
+decision_id: "lu_gerichte_RRE_Nr._2359"
+court: "LU Gerichte"
+court_id: "lu_gerichte"
+docket: "RRE Nr. 2359"
+docket_2: "1991 III Nr. 11"
+decided: "1991-09-03"
+language: "de"
+source_url: "https://gerichte.lu.ch/recht_sprechung/lgve/Ajax?EnId=2063"
+---
+
+# LU Gerichte RRE Nr. 2359
+
+## Regeste
+
+Gemeindeinitiative. § 87 StV; § 162 Abs. 1 d StRG; §§ 2 Abs. 2 Ziff. 1, 5 Abs. 2, 45, 45 a, 62, 63 GG. Eine Gemeindeinitiative, mit der eine gesetzliche Regelung verlangt wird, wonach gemeindeeigenes Land nur noch im Baurecht abgegeben oder gegen gleichwertiges Land getauscht werden darf, ist zulässig. | Volksrechte
+
+## Text
+
+Luzern Kantonsgericht sonstige 03.09.1991 RRE Nr. 2359 (1991 III Nr. 11)
+
+Gemeindeinitiative. § 87 StV; § 162 Abs. 1 d StRG; §§ 2 Abs. 2 Ziff. 1, 5 Abs. 2, 45, 45 a, 62, 63 GG. Eine Gemeindeinitiative, mit der eine gesetzliche Regelung verlangt wird, wonach gemeindeeigenes Land nur noch im Baurecht abgegeben oder gegen gleichwertiges Land getauscht werden darf, ist zulässig. | Volksrechte
+
+Rechtsprechung Luzern
+Instanz:
+Regierungsrat
+Abteilung:
+-
+Rechtsgebiet:
+Volksrechte
+Entscheiddatum:
+03.09.1991
+Fallnummer:
+RRE Nr. 2359
+LGVE:
+1991 III Nr. 11
+Leitsatz:
+Gemeindeinitiative. § 87 StV; § 162 Abs. 1 d StRG; §§ 2 Abs. 2 Ziff. 1, 5 Abs. 2, 45, 45 a, 62, 63 GG. Eine Gemeindeinitiative, mit der eine gesetzliche Regelung verlangt wird, wonach gemeindeeigenes Land nur noch im Baurecht abgegeben oder gegen gleichwertiges Land getauscht werden darf, ist zulässig.
+Rechtskraft:
+Diese Entscheidung ist rechtskräftig.
+Entscheid:
+1. Beim Gemeinderat wurde folgende Initiative eingereicht:
+"Gegen die Spekulation mit Gemeindeland. Initiative zur Einräumung von Baurechten an gemeindeeigenem Land.
+Die unterzeichneten Stimmberechtigten der Gemeinde Hochdorf verlangen, dass gemeindeeigenes Land nur noch im Baurecht zu üblichen Bedingungen abgegeben werden darf.
+Ausnahme: Abtausch mit anderen gleichwertigen Parzellen."
+Der Gemeinderat hat das formelle Zustandekommen der Initiative erwahrt. Nach einlässlichen Abklärungen erklärte er jedoch die Initiative für ungültig, weil sie rechtswidrig sei.
+2. Nach der Auffassung des Gemeinderates zielt die Initiative mit Ausnahme des Abtausches gegen anderes Land auf die Schaffung eines Veräusserungsverbotes von gemeindeeigenen Grundstücken ab. Dies bedeute eine Einschränkung der Kompetenzen des Gemeinderates und der Stimmberechtigten, wie sie im Gemeindegesetz und in der Gemeindeordnung festgelegt seien. Durch eine Änderung der Gemeindeordnung könnten zwar die Kompetenzen des Gemeinderates und der Stimmberechtigten gegeneinander anders abgegrenzt, nicht aber vollständig aufgehoben werden. Eine Einschränkung der Kompetenzen der Stimmberechtigten falle auch deshalb nicht in Betracht, weil diese mangels eines Gemeindeparlamentes in Hochdorf nicht auf ein solches übertragen werden könnten. Wie es sich damit verhält, ist im folgenden zu untersuchen.
+Die Gemeindeordnung von Hochdorf hat hinsichtlich der Abgrenzung der Kompetenzen des Gemeinderates und der Stimmberechtigten zum Erwerb und zur Veräusserung von Grundstücken gegenüber dem Gemeindegesetz keine Änderung gebracht. Danach sind für Erwerb und Veräusserung von Grundstücken bis zum Wert von 0,1 Einheiten der Gemeindesteuer der Gemeinderat und bei darüber liegenden Werten die Stimmberechtigten zuständig (Art. 8 Abs. 10, Art. 16 Abs. 12 und Art. 21 Abs. 3 der Gemeindeordnung, § 2 Abs. 2 Ziff. 1, § 5 des Gemeindegesetzes). Die Regelung im Gemeindegesetz und in Einklang damit in der Gemeindeordnung ist organisatorischer Natur. Sie besagt zunächst, wer innerhalb der Gemeinde zuständig ist, falls Grundstücke zu erwerben oder zu veräussern sind. Der Bestimmung kommt aber auch im Verhältnis Gemeinde-Kanton Organisationsgehalt zu, indem sie zum Ausdruck bringt, dass es Sache der Gemeinde und nicht des Kantons ist zu bestimmen, ob und welche Grundstücke sie erwerben oder veräussern will. Dieser freie Entschluss der Gemeinde findet seine Grenzen darin, dass sie zur Erfüllung von einzelnen Gemeindeaufgaben zum Erwerb von Grundstücken faktisch gezwungen sein kann wie für die Errichtung von Schulbauten usw. Aber auch hier bleibt ihrem Ermessen, wie sie die Aufgabe löst, insbesondere was für Grundstücke sie hiefür einsetzt, ein breiter Raum. Eine weitere Schranke kann darin gesehen werden, dass sich Erwerb und Veräusserung von Grundstücken in dem von der Rechtsordnung der Gemeinde gesteckten Finanzhaushaltrahmen halten müssen.
+Die Initiative verlangt, dass gemeindeeigene Grundstücke nur noch entweder gegen gleichwertige Parzellen eingetauscht oder im Baurecht abgegeben werden. Dies bedeutet unbestrittenermassen, dass gemeindeeigenes Land ausserhalb eines Tausches gegen gleichwertiges Land nicht mehr veräussert werden darf. Der Gemeinderat sieht darin ein "Veräusserungsverbot". In der Umgangssprache trifft dieser Ausdruck sicherlich den Sachverhalt. Juristisch gesehen handelt es sich indes richtiger um eine Selbstbeschränkung. Statt dass die Stimmberechtigten und der Gemeinderat jedesmal, wenn sich eine Gelegenheit zur Veräusserung von Grundstücken bietet, sich neu Gedanken machen, ob eine solche vorzunehmen sei, wägen sie alle Gründe, welche grundsätzlich für und gegen eine Veräusserung sprechen, gegeneinander ab und kleiden das Ergebnis, sofern die Gründe dagegen als gewichtiger erscheinen, in einen generell-abstrakten Rechtssatz des Inhalts, dass gemeindeeigenes Land zwar im Tausch gegen gleichwertiges Land und im Baurecht abgegeben, aber nicht mehr veräussert werden darf. Diese rechtssatzmässig festgelegte Haltung, wie mit gemeindeeigenen Grundstücken im Rechtsverkehr mit Dritten umzugehen ist, ersetzt das Zufällige, das im Einzelfall eine Veräusserung bewirken mag, durch das Grundsätzliche.
+Gegen eine solche Ordnung mögen verschiedene Einwände erhoben werden. Ob sie dagegen aufzukommen vermögen, ist nachfolgend zu untersuchen.
+a. Was die damit verbundene Beschränkung der Befugnisse der Stimmberechtigten selbst betrifft, erachtet sie der Gemeinderat als unstatthaft, weil die Befugnisse nicht nach § 63 Abs. 1 des Gemeindegesetzes auf ein Gemeindeparlament übertragen würden. Diese Auffassung verkennt, dass sich die Stimmberechtigten keiner Befugnisse begeben. Sie bestimmen lediglich generell-abstrakt, dass sie die ihnen zustehenden Befugnisse einheitlich nach bestimmten Richtlinien ausüben wollen. Halten sie dafür, dass sie zur Entscheidungsbefugnis im Einzelfall zurückkehren wollen, so können sie den von ihnen erlassenen Rechtssatz jederzeit wieder aufheben. Dass in einem solchen Fall zwei Schritte zu tun wären, nämlich zuerst die Aufhebung des Rechtssatzes und als zweites die Beschlussfassung über das Verkaufsgeschäft, macht das Vorgehen zwar aufwendiger. Ihrer Rechte entäussern sich die Stimmberechtigten indessen nicht. Damit entfällt auch die Notwendigkeit einer Übertragung auf ein Gemeindeparlament.
+b. Der Gemeinderat stellt sich auf den Standpunkt, durch die Gemeindeordnung könne die Kompetenz des Gemeinderates, Grundstücke bis zum erwähnten Wert zu veräussern, eingeschränkt, aber nicht gänzlich aufgehoben werden. Dieser Auffassung kann aus zwei Gründen nicht gefolgt werden.
+aa. Die Regelung über die Abgrenzung der Kompetenzen zwischen Gemeinderat und Stimmberechtigten zur Veräusserung von Grundstücken ist, wie eingangs erwähnt, organisatorischer Natur. Sie besagt, wer zuständig ist, falls Grundstücke zu veräussern sind. Dass aber Grundstücke veräussert werden sollen, wenn sich Gelegenheit dazu bietet, bringt die Bestimmung nicht zum Ausdruck. Öffentliches Recht, das von den Stimmberechtigten nach § 45 a Abs. 1 des Gemeindegesetzes erlassen und das - darauf wird noch zurückzukommen sein - sich im Rahmen des übergeordneten Rechts hält, kann die Veräusserung von Grundstücken durchaus an Voraussetzungen knüpfen, wie es die Initiative verlangt, nämlich dass die Gemeinde im Tausch gleichzeitig andere gleichwertige Parzellen erlangt. Wird die Voraussetzung nicht erfüllt, hat die Veräusserung zu unterbleiben. Kann sie erfüllt werden, so kann vom Wortlaut der Initiative her weiterhin der Gemeinderat bis zur erwähnten Wertgrenze für die Veräusserung zuständig bleiben.
+bb. Ob der Eventualantrag der Beschwerdeführer gemäss Ziff. 3 weiter als der Wortlaut der Initiative geht in dem Sinne, dass der Gemeinderat keinerlei Veräusserungsbefugnisse mehr haben soll, ist nicht eindeutig. Auch die Erläuterungen in Ziff. 7 der Rechtsschrift verschaffen keine Gewissheit. Die Meinung des Gemeinderates jedenfalls, seine Kompetenz zur Veräusserung von Grundstücken lasse sich zwar einschränken, aber nicht aufheben, findet im Gesetz keine Stütze. Nach § 62 Abs. 1 des Gemeindegesetzes kann die Sonderorganisation einer Gemeinde von den Zuständigkeitsregelungen "abweichen", wenn die Grundsätze eines rechtsstaatlich-demokratischen Gemeinwesens gewahrt sind und die ordnungsgemässe Erfüllung der Gemeindeaufgaben gewährleistet bleibt. Der Begriff "abweichen" beinhaltet mehr als eine Befugnis, die Zuständigkeit lediglich einzuschränken. Eine Befugnis kann auch gänzlich den Stimmberechtigten übertragen werden, wenn die rechtsstaatlich-demokratischen Grundsätze und die ordnungsgemässe Erfüllung der Gemeindeaufgaben gewährleistet bleiben. Dass die demokratischen Rechte eher vergrössert werden, ohne den Rechtsstaat zu gefährden, wenn die Stimmberechtigten über alle Grundstücksveräusserungen befinden, bedarf keiner weitern Begründung.
+Die weitere Voraussetzung der ordnungsgemässen Erfüllung der Gemeindeaufgaben ist unter zwei Gesichtspunkten zu betrachten. Zunächst kann nicht gesagt werden, der Gang der Geschäfte der Gemeinde sei nicht mehr gewährleistet, wenn die Stimmberechtigten auch über den Tausch von Grundstücken von geringerem Wert zu entscheiden haben. Solche Tauschgeschäfte werden nicht häufig sein. Zum andern werden dem Gemeinderat als Exekutive keine Kompetenzen weggenommen, ohne die er nicht mehr richtig funktionieren kann. Die Aufteilung der Kompetenzen für die Veräusserung von Grundstücken zwischen Gemeinderat und Stimmberechtigten hat offensichtlich den Sinn, die Bürgerschaft von unbedeutenderen Geschäften zu entlasten. Wenn sie diese Entlastung aber nicht will, so steht nichts entgegen, dass sie die entsprechenden Befugnisse an sich zieht.
+c. Es ist bereits dargelegt worden, dass die Bestimmungen über die Zuordnung von Kompetenzen an Gemeinderat und Stimmberechtigte zum Erwerb und zur Veräusserung von Grundstücken organisatorischer Natur sind. Sie regeln einerseits die Zuständigkeiten innerhalb der Gemeinde wie auch im Verhältnis zwischen Kanton und Gemeinden. Danach ist die Gemeinde befugt, Grundstücke zu erwerben und zu veräussern. Es stellt sich die Frage, ob sie darüber auch Rechtssätze im Sinne der Initiative erlassen kann.
+Nach § 87 Abs. 1 der Staatsverfassung hat jede Gemeinde das Recht, ihre Angelegenheiten innert den verfassungsmässigen und gesetzlichen Schranken selbständig zu besorgen. Dem Regierungsrat steht die Aufsicht zu. Weder der Bund noch der Kanton haben darüber legiferiert, ob die Gemeinde eigene Grundstücke behalten oder veräussern soll. Ist aber der Erwerb und die Veräusserung von Grundstücken Sache der Gemeinde, über die sie frei entscheiden kann, und bestehen keine übergeordneten Vorschriften, welche der Gemeinde die Veräusserung von Grundstücken vorschreiben, so ist sie kraft ihrer Autonomie befugt, darüber Rechtssätze zu erlassen.
