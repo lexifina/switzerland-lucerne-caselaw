@@ -1,0 +1,51 @@
+---
+decision_id: "lu_gerichte_RRE_Nr._321"
+court: "LU Gerichte"
+court_id: "lu_gerichte"
+docket: "RRE Nr. 321"
+docket_2: "1999 III Nr. 8"
+decided: "1999-03-12"
+language: "de"
+source_url: "https://gerichte.lu.ch/recht_sprechung/lgve/Ajax?EnId=2204"
+cites_law: ["switzerland/bund/acts/101/art-004.md"]
+---
+
+# LU Gerichte RRE Nr. 321
+
+## Regeste
+
+Bewertung schulischer Leistungen. §§ 14 ff. und 144 VRG; Artikel 4 BV. Die Bewertung von schulischen Leistungen ist nur beschränkt zu überprüfen. Der Umstand, dass die Examinatorin zugleich Lehrerin im Prüfungsfach war, vermag für sich allein noch keine Befangenheit zu begründen. Ebensowenig entsteht eine Interessenkollision, wenn ein Mitglied aus dem Schulteam die Aufgabe des Experten übernimmt. | Erziehungswesen
+
+## Text
+
+Luzern Kantonsgericht sonstige 12.03.1999 RRE Nr. 321 (1999 III Nr. 8)
+
+Bewertung schulischer Leistungen. §§ 14 ff. und 144 VRG; Artikel 4 BV. Die Bewertung von schulischen Leistungen ist nur beschränkt zu überprüfen. Der Umstand, dass die Examinatorin zugleich Lehrerin im Prüfungsfach war, vermag für sich allein noch keine Befangenheit zu begründen. Ebensowenig entsteht eine Interessenkollision, wenn ein Mitglied aus dem Schulteam die Aufgabe des Experten übernimmt. | Erziehungswesen
+
+Rechtsprechung Luzern
+Instanz:
+Regierungsrat
+Abteilung:
+-
+Rechtsgebiet:
+Erziehungswesen
+Entscheiddatum:
+12.03.1999
+Fallnummer:
+RRE Nr. 321
+LGVE:
+1999 III Nr. 8
+Leitsatz:
+Bewertung schulischer Leistungen. §§ 14 ff. und 144 VRG; Artikel 4 BV. Die Bewertung von schulischen Leistungen ist nur beschränkt zu überprüfen. Der Umstand, dass die Examinatorin zugleich Lehrerin im Prüfungsfach war, vermag für sich allein noch keine Befangenheit zu begründen. Ebensowenig entsteht eine Interessenkollision, wenn ein Mitglied aus dem Schulteam die Aufgabe des Experten übernimmt.
+Rechtskraft:
+Diese Entscheidung ist rechtskräftig.
+Entscheid:
+1. Zu prüfen ist, was der Beschwerdeführer mit seiner Prüfungsbeschwerde rügen kann und welche Überprüfungsbefugnis der Regierungsrat hat.
+Anfechtungsgegenstand ist der Entscheid der Schulleiterin der Schule für Physiotherapie am Kantonsspital Luzern vom 24. September 1998. Darin wurde der Beschwerdeführer wegen der ungenügenden Note im Fach "Funktionelle Bewegungslehre" von der Schule ausgeschlossen. Da Voraussetzung des Ausschlusses eine ungenügende Benotung ist (§ 10 Abs. 3 des Prüfungs- und Promotionsreglements), kann der Beschwerdeführer nicht nur den Ausschluss, sondern auch die Benotung im genannten Fach anfechten.
+Des Weitern kann jemand mit der Verwaltungsbeschwerde grundsätzlich die unrichtige oder unvollständige Feststellung des rechtserheblichen Sachverhalts einerseits und die unrichtige Rechtsanwendung sowie die unrichtige Handhabung des Ermessens andererseits rügen (§ 144 VRG). Grundsätzlich gilt bei der Verwaltungsbeschwerde mithin die unbeschränkte Überprüfungsbefugnis. In der Schweiz herrscht aber allgemein die Auffassung, dass die Bewertung von schulischen Leistungen nicht frei, sondern nur mit beschränkter Kognition zu überprüfen ist. Wenn die Beschränkung der Kognition nicht auf einer gesetzlichen Vorschrift beruht, ist sie ohne Verstoss gegen Artikel 4 BV jedoch nur in Bezug auf die eigentliche Bewertung der erbrachten Leistungen zulässig. Denn die Notengebung ist kaum überprüfbar, weil der Rechtsmittelbehörde zumeist nicht alle massgebenden Faktoren der Bewertung bekannt sind. So ist es ihr in der Regel nicht möglich, sich über den im Unterricht vermittelten Stoff, die Gesamtheit der Leistungen des Beschwerdeführers in der Prüfung und die Leistungen der übrigen Kandidaten ein zuverlässiges Bild zu machen. Die Prüfungen haben darüber hinaus häufig Spezialgebiete zum Gegenstand, in denen die Rechtsmittelbehörde über keine eigene Fachkenntnis verfügt. Besondere Schwierigkeiten ergeben sich überdies dann, wenn Notengebungen zu beurteilen sind, die sich nicht ausschliesslich auf schriftliche, sondern auf mündliche Prüfungen beziehen. Der massgebende Sachverhalt kann in diesen Fällen durch Beweiserhebung der Rechtsmittelbehörde nicht vollständig rekonstruiert werden. Die Abänderung einer Examensbewertung birgt zudem die Gefahr in sich, dass neue Ungerechtigkeiten und Ungleichheiten gegenüber andern Kandidaten entstehen. Diese Gefahr besteht namentlich dann, wenn die Prüfung aufgrund des Rechtsmittelentscheids wiederholt werden muss. Denn Examen lassen sich nicht unter völlig gleichen Bedingungen nochmals durchführen. Soweit aber die Auslegung und Anwendung von Rechtsvorschriften streitig ist oder soweit Verfahrensmängel gerügt werden, hat die Rechtsmittelbehörde die erhobenen Einwendungen mit freier Kognition zu prüfen. Auf Verfahrensfragen beziehen sich alle Einwendungen, die den äusseren Ablauf des Examens oder der Bewertung betreffen. Eine Verfahrensfrage betrifft auch der Einwand, es sei bei der Notengebung in rechtsungleicher Weise von den Grundsätzen abgewichen worden, die der Examinator in allen andern Fällen befolgt habe (BGE 106 Ia 1 ff. mit vielen Hinweisen auf Literatur und Rechtsprechung; vgl. weiter LGVE 1984 III Nr. 29 betreffend Diplomprüfung für Sekundarlehrer im Kanton Luzern, VPB 61/1997 Nr. 62 II E. 1c und Nr. 63 E. 3.1). Wie die angeführte Rechtsprechung zeigt, werden diese Grundsätze auch im Zusammenhang mit Beschwerden gegen Prüfungsentscheide öffentlicher Schulen im Kanton Luzern angewandt.
+2. Der Beschwerdeführer rügt, dass die Examinatorin bei der Abnahme der mündlichen Prüfung befangen gewesen sei. Sie habe das besagte Fach im ersten Semester unterrichtet. Während des Unterrichts habe sie des Öfteren seine Fragen nicht beantwortet. Sie habe ihn als Lernenden nicht ernst genommen. Folglich sei sie durch das vorangehende Semester geprägt gewesen. Des Weitern macht der Beschwerdeführer die Befangenheit des Experten geltend. Er sei ebenfalls ein Mitglied des Schulteams. Zudem unterrichte er an der Schule für Physiotherapie das Prüfungsfach nicht. Er sei unter diesen Umständen von der Examinatorin in fachlicher wie auch in arbeitsorganisatorischer Hinsicht in starkem Masse abhängig gewesen.
+Die Frage nach der Ausstandspflicht beantwortet sich in erster Linie nach dem kantonalen Verfahrensrecht. Erst wenn diese Bestimmungen den aus Artikel 4 BV abgeleiteten Mindestanspruch auf Unbefangenheit nicht gewährleisten, findet das Bundesrecht Anwendung (LGVE 1990 III Nr. 4). Der Ausstand wegen Befangenheit von Behörden, die dem Verwaltungsrechtspflegegesetz unterliegen, ist in den §§ 14-16 VRG geregelt. Dabei muss aber beachtet werden, dass dieses Gesetz nach § 9 Absatz 1c VRG bei Schul-, Berufs- und andern Fähigkeitsprüfungen nicht anwendbar ist. Damit ist die beschwerdeführerische Rüge nach Bundesrecht zu beurteilen.
+Nach der bundesgerichtlichen Rechtsprechung gibt Artikel 4 BV einem Prüfungskandidaten einen Mindestanspruch auf Unbefangenheit von Prüfungsexperten. Bei Prüfungen liegt aber keine Befangenheit vor, wenn die gleiche Expertin die erste Prüfung bereits als ungenügend bewertete. Auch der vage Verdacht, dass ein Prüfling dem Experten aufgrund der ersten Prüfung unsympathisch sein könnte, begründet noch keine verfassungsrechtliche Ausstandspflicht (BGE 121 I 230 E. 3 am Ende). Des Weitern wird der verfassungsrechtliche Anspruch auf Unbefangenheit eines Experten nicht verletzt, wenn bei einer Anwaltsprüfung praktizierende Anwälte als Experten herangezogen werden. Die blosse Möglichkeit, dass ein Kandidat, der die Prüfung besteht, später in ein Konkurrenzverhältnis zu den ihn prüfenden Anwälten treten könnte, führt noch nicht zu einer Interessenkollision und lässt nicht generell auf eine Befangenheit schliessen (BGE 113 Ia 289 E. 3a). Des Weitern muss beachtet werden, dass nach dem Grundsatz von Treu und Glauben eine Ablehnung unverzüglich geltend gemacht werden muss, sobald der Ausstandsgrund bekannt ist. Andernfalls hat der Prüfungskandidat den Anspruch auf Ablehnung verwirkt (BGE 121 I 229 E. 3; 120 Ia 24 E. 2c/aa; 118 Ia 284 E. 3a).
+Gemessen an dieser Rechtsprechung vermag allein der Umstand, dass die Examinatorin zugleich Lehrerin im Prüfungsfach war, noch keine Befangenheit zu begründen. Insbesondere entstand dadurch nicht zwingendermassen eine Interessenkollision zwischen der Lehr- und der Expertentätigkeit. Und selbst wenn es zutreffen würde, dass sie im Unterricht nicht alle Fragen des Beschwerdeführers beantwortet hätte, könnte keine Befangenheit angenommen werden. Denn eine Lehrerin muss darum besorgt sein, den Stoff innerhalb eines gesetzten Zeitrahmens an alle Schüler zu vermitteln. Auch die andern Schüler müssen die Möglichkeit haben, Fragen zu stellen. Der Beschwerdeführer hatte keinen Anspruch auf Einzelunterricht. Die vom Beschwerdeführer behauptete Beschränkung wäre somit kein Beweis für das Vorliegen einer Befangenheit.
+Ebenso wenig entsteht eine Interessenkollision, wenn ein diplomierter Physiotherapeut aus dem Schulteam die Aufgabe des Experten übernimmt. Und dass der Experte in fachlicher wie auch in arbeitsorganisatorischer Hinsicht in starkem Masse von der Examinatorin abhängig gewesen wäre, trifft nicht zu. Nach der Organisation der Schule für Physiotherapie ist der Experte der Examinatorin nicht unterstellt. Ferner ist zu berücksichtigen, dass er als diplomierter Physiotherapeut und Lehrer an der Schule genügend Kenntnis über das Prüfungsfach hat, um eine fachliche Abhängigkeit von der Examinatorin auszuschliessen.
+Und zu beachten ist, dass die Absolventen der Schule von Anfang an wissen, dass sie von den jeweiligen Fachlehrern geprüft werden. Des Weitern erhalten sie zwei bis drei Wochen vor Prüfungsbeginn den Prüfungsplan. Darin sind die Examinatorinnen und Examinatoren sowie die Expertinnen und Experten namentlich aufgeführt. Deshalb wäre es dem Beschwerdeführer auch möglich gewesen, allfällige Ausstandsgründe bereits vorher der Schulleiterin zu melden. Dies hat er aber nicht getan. Unter diesen Umständen hat der Beschwerdeführer ohnehin den Anspruch auf Geltendmachung von Ausstandsgründen verwirkt.
