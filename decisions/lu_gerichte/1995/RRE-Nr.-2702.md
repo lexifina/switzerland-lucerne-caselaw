@@ -1,0 +1,56 @@
+---
+decision_id: "lu_gerichte_RRE_Nr._2702"
+court: "LU Gerichte"
+court_id: "lu_gerichte"
+docket: "RRE Nr. 2702"
+docket_2: "1995 III Nr. 10"
+decided: "1995-09-29"
+language: "de"
+source_url: "https://gerichte.lu.ch/recht_sprechung/lgve/Ajax?EnId=2151"
+cites_law: ["switzerland/bund/acts/101/art-004.md"]
+---
+
+# LU Gerichte RRE Nr. 2702
+
+## Regeste
+
+Sozialhilfebeiträge. §§ 6 und 19ff. StipG; §§ 10, 11 und 13ff. StipV; § 8 SHG; Artikel 4 BV. Sozialhilfebeiträge stellen weder Eigen- oder Fremdleistungen im Sinne des Stipendiengesetzes dar, noch können sie bei der Berechnung der Ausbildungsbeiträge sonstwie als Einkommen angerechnet werden. - Aufgrund des im Sozialhilfegesetz verankerten Prinzips der absoluten Subsidiarität sind Sozialhilfebeiträge im Umfang der seitens der Stipendienstelle angerechneten Lebenshaltungskosten zu kürzen. - Es liegt keine Verletzung der Rechtsgleichheit gemäss Artikel 4 BV vor, wenn eine gesuchstellende Person, welche gleiche Ausgaben wie eine andere gesuchstellende Person aufweist, jedoch anstelle von Sozialhilfebeiträgen über ein Einkommen in gleicher Höhe verfügt, in der Folge bei der Berechnung von Ausbildungsbeiträgen eine andere Beurteilung erfährt. | Stipendien
+
+## Text
+
+Luzern Kantonsgericht sonstige 29.09.1995 RRE Nr. 2702 (1995 III Nr. 10)
+
+Sozialhilfebeiträge. §§ 6 und 19ff. StipG; §§ 10, 11 und 13ff. StipV; § 8 SHG; Artikel 4 BV. Sozialhilfebeiträge stellen weder Eigen- oder Fremdleistungen im Sinne des Stipendiengesetzes dar, noch können sie bei der Berechnung der Ausbildungsbeiträge sonstwie als Einkommen angerechnet werden. - Aufgrund des im Sozialhilfegesetz verankerten Prinzips der absoluten Subsidiarität sind Sozialhilfebeiträge im Umfang der seitens der Stipendienstelle angerechneten Lebenshaltungskosten zu kürzen. - Es liegt keine Verletzung der Rechtsgleichheit gemäss Artikel 4 BV vor, wenn eine gesuchstellende Person, welche gleiche Ausgaben wie eine andere gesuchstellende Person aufweist, jedoch anstelle von Sozialhilfebeiträgen über ein Einkommen in gleicher Höhe verfügt, in der Folge bei der Berechnung von Ausbildungsbeiträgen eine andere Beurteilung erfährt. | Stipendien
+
+Rechtsprechung Luzern
+Instanz:
+Regierungsrat
+Abteilung:
+-
+Rechtsgebiet:
+Stipendien
+Entscheiddatum:
+29.09.1995
+Fallnummer:
+RRE Nr. 2702
+LGVE:
+1995 III Nr. 10
+Leitsatz:
+Sozialhilfebeiträge. §§ 6 und 19ff. StipG; §§ 10, 11 und 13ff. StipV; § 8 SHG; Artikel 4 BV. Sozialhilfebeiträge stellen weder Eigen- oder Fremdleistungen im Sinne des Stipendiengesetzes dar, noch können sie bei der Berechnung der Ausbildungsbeiträge sonstwie als Einkommen angerechnet werden. - Aufgrund des im Sozialhilfegesetz verankerten Prinzips der absoluten Subsidiarität sind Sozialhilfebeiträge im Umfang der seitens der Stipendienstelle angerechneten Lebenshaltungskosten zu kürzen. - Es liegt keine Verletzung der Rechtsgleichheit gemäss Artikel 4 BV vor, wenn eine gesuchstellende Person, welche gleiche Ausgaben wie eine andere gesuchstellende Person aufweist, jedoch anstelle von Sozialhilfebeiträgen über ein Einkommen in gleicher Höhe verfügt, in der Folge bei der Berechnung von Ausbildungsbeiträgen eine andere Beurteilung erfährt.
+Rechtskraft:
+Diese Entscheidung ist rechtskräftig.
+Entscheid:
+4. Im vorliegenden Fall gilt es nun vorerst zu prüfen, ob Sozialhilfebeiträge Einkommen im Sinne des Stipendiengesetzes darstellen oder nicht.
+Das luzernische System der Ausbildungsbeitragsberechnung beruht auf dem sogenannten Fehlbetragssystem. Dieses System wird in § 6 StipG erwähnt und in den §§ 19-22 StipG in seinen Grundzügen umschrieben. Massgebend für die Berechnung von Ausbildungsbeiträgen ist der finanzielle Bedarf, der sich aus der Differenz zwischen anerkannten Ausbildungs- und Lebenshaltungskosten und den zumutbaren Eigen- und Fremdleistungen ergibt. In der Verordnung findet sich die Umschreibung der Begriffe "anerkannte Ausbildungs- und Lebenshaltungskosten" (§§ 10 und 11 StipV) sowie zumutbare "Eigen- und Fremdleistungen" (§§ 13-17 StipV). Die dabei mitzuberücksichtigenden Grundsätze werden in § 20 Absätze 2 und 3 und in § 21 StipG festgelegt.
+Im vorliegenden Fall ist die Umschreibung der Begriffe Eigen- und Fremdleistungen von Interesse. Unter Eigenleistungen (Leistungen der Gesuchstellerin oder des Gesuchstellers) werden der anrechenbare Eigenerwerb und das anrechenbare Eigenvermögen verstanden (§§ 13 und 14 StipV), wobei im voraus ausgeschlossen werden kann, dass Sozialhilfebeiträge unter den Begriff Eigenvermögen fallen. Eigenerwerb definiert sich gemäss § 13 StipV als Erwerbs- oder Ersatzeinkommen. Dass Sozialhilfebeiträge kein Erwerbseinkommen darstellen, bedarf keiner weiteren Erläuterung. Zu prüfen ist somit allein, ob Sozialhilfe unter den Begriff Ersatzeinkommen subsumierbar ist oder nicht. Wie aus dem Wortlaut bereits hervorgeht, wird Ersatzeinkommen anstelle von fehlendem Einkommen ausgerichtet. Nach ständiger Praxis gehören dazu ohne Zweifel Arbeitslosengelder, Renten oder Versicherungsleistungen. Betreffend die Frage der Zugehörigkeit von Sozialhilfeleistungen ist zunächst vom Sinn und Zweck dieser Leistungen auszugehen. Gemäss § 2 SHG bezweckt die Sozialhilfe, der Hilfebedürftigkeit vorzubeugen, deren Folgen nach Möglichkeit zu beseitigen oder zu mildern und die Selbsthilfe der Hilfsbedürftigen zu fördern.
+Das Sozialhilfegesetz unterscheidet in § 3 verschiedene Arten von Sozialhilfe. Im vorliegenden Fall wird der Beschwerdeführerin Bargeld ausbezahlt. Somit liegt wirtschaftliche Sozialhilfe vor (§ 29 Absatz 1a SHG). Auf wirtschaftliche Sozialhilfe hat Anspruch, wer seinen Lebensbedarf und den seiner Familienangehörigen nach den Bestimmungen des Bundesgesetzes über die Zuständigkeit für die Unterstützung Bedürftiger (ZUG; SR 851.1) nicht rechtzeitig oder nicht hinreichend mit eigenen Mitteln, Arbeit oder Leistungen Dritter bestreiten kann (§ 28 Absatz 1 SHG). Wegleitend für die Bemessung der wirtschaftlichen Sozialhilfe sind die Richtlinien für die Bemessung der Sozialhilfe der Schweizerischen Konferenz für öffentliche Fürsorge (SKöF).
+Nach § 8 SHG haben die Organe der Sozialhilfe bei ihrer Tätigkeit vorrangig die Sozialhilfe anderer Träger zu berücksichtigen, sie zu vermitteln und nötigenfalls anzuregen und zu fördern. In dieser Bestimmung ist das Prinzip der absoluten Subsidiarität verankert. Mit andern Worten: Sozialhilfebeiträge sind nur auszurichten, wenn keinerlei Ansprüche auf Leistungen Dritter mehr geltend gemacht werden können. Explizit kommt dieses Prinzip auch in Ziffer 5.2. der obenerwähnten Richtlinien der SKöF zum Ausdruck, wonach zweckgebundenes Eigeneinkommen (Stipendien, Ertrag aus Kindesvermögen usw.) zweckentsprechend anzuwenden ist.
+Diese Umschreibung von Sozialhilfeleistungen hat entgegen der Meinung der Vorinstanz auch im Stipendienrecht Geltung. Es geht nicht an, dass Sinn und Zweck dieser Leistungen je nach Vorschrift anders definiert werden. Folglich können auch im Stipendienrecht Sozialhilfebeiträge nicht zum Ersatzeinkommen gezählt werden.
+Zu prüfen ist weiter, ob Sozialhilfebeiträge Fremdleistungen darstellen. Eine entsprechende Begriffsumschreibung findet sich in der Botschaft des Regierungsrates des Kantons Luzern an den Grossen Rat zum Entwurf eines Gesetzes über Ausbildungsbeiträge vom 9. Januar 1990 (GR 1990 S. 264). Danach werden darunter die zumutbaren Beiträge der Eltern und des Ehegatten sowie die Beiträge weiterer unterstützungsverpflichteter Personen (z.B. Stiefeltern) verstanden (vgl. § 1 Absatz 2 StipG). Sozialhilfebeiträge werden nicht von Personen, sondern von der öffentlichen Hand ausgerichtet und fallen daher gemäss vorgängiger Definition nicht unter den Begriff der Fremdleistung.
+Aufgrund dieser Ausführungen ist festzuhalten, dass Sozialhilfebeiträge weder Eigen- noch Fremdleistungen im Sinne des Stipendiengesetzes darstellen.
+5. Es stellt sich weiter die Frage, ob Sozialhilfebeiträge bei der Berechnung von Stipendien trotz der in Ziffer 4 erläuterten Ausführungen nicht dennoch auf der Einkommensseite veranschlagt werden können.
+Ausgehend von den bisherigen Ausführungen sowie dem ebenfalls in Ziffer 4 dargestellten Grundgedanken des Sozialhilfegesetzes - dem absoluten Subsidiaritätsprinzip -, können Sozialhilfebeiträge folgerichtig auch nicht als "Einkommen" im Sinne des Stipendiengesetzes bezeichnet und demzufolge auch nicht als Einkommen bei der Berechnung der Stipendien herbeigezogen werden.
+6. Im weiteren stellt sich im vorliegenden Fall die Frage, ob - wie von der Vorinstanz in ihrer Vernehmlassung geltend gemacht wird - eine Ungleichbehandlung vorliegt, wenn eine gesuchstellende Person, welche gleiche Ausgaben wie eine andere gesuchstellende Person aufweist, jedoch anstelle von Sozialleistungen über ein Einkommen in gleicher Höhe verfügt, in der Folge bei der Berechnung von Ausbildungsbeiträgen eine andere Beurteilung erfährt.
+Die Rechtsgleichheit stellt ein Grundrecht dar und ist in Artikel 4 der Bundesverfassung (BV) verankert. Sie erfasst alle Rechtsbereiche und fordert eine rechtsgleiche Behandlung aller Personen.
+Artikel 4 BV gewährleistet jedoch keine absolute Rechtsgleichheit. Gemäss bundesgerichtlicher Rechtsprechung verletzt ein eine rechtsungleiche Behandlung begründender Erlass Artikel 4 BV dann, wenn er zwischen mehreren zu regelnden Verhältnissen rechtliche Unterscheidungen trifft, die sich nicht auf ernsthafte sachliche Gründe stützen lassen und für die ein vernünftiger Grund nicht ersichtlich ist, oder wenn er tatsächliche Verhältnisse gleich behandelt, die voneinander wesentlich abweichen und einer unterschiedlichen Behandlung bedürfen. Die vertretbare rechtliche Differenzierung hat danach an einen erheblichen, tatsächlichen Unterschied zu knüpfen. Ob ein Unterschied erheblich ist, beurteilt sich im Einklang mit den beherrschenden Prinzipien der Rechtsordnung und je im Hinblick auf die konkrete zu bewältigende Situation (BGE 100 I a 328).
+Gemäss geltender Rechtsordnung ist im Sozialhilfegesetz das absolute Subsidiaritätsprinzip verankert. Sozialhilfebeiträge können demnach nur ausgerichtet werden, wenn auf jegliche Leistungen Dritter kein Anspruch mehr besteht. Aufgrund dieses die geltende Rechtsordnung beherrschenden Prinzips können Sozialhilfebeiträge im Stipendienrecht nicht auf der Einnahmenseite veranschlagt werden. Demzufolge kann jener Fall durchaus eintreten, wonach bei zwei um Ausbildungsbeiträge ersuchenden Personen, von welchen die eine Person über ein Einkommen bzw. Ersatzeinkommen in bestimmter Höhe verfügt, der andern Person Sozialhilfebeiträge in derselben Höhe ausgerichtet werden, unterschiedliche Fehlbeträge unter Anrechnung derselben Ausgaben resultieren. Der Argumentation der Vorinstanz, wonach in solchen Fällen das Gebot der Rechtsgleichheit verletzt sei, kann nicht gefolgt werden, da, gestützt auf die vorherigen Ausführungen, eine rechtliche vertretbare Differenzierung vorliegt. Die Differenzierung knüpft nämlich an einen erheblichen tatsächlichen Unterschied an. Wie bereits mehrmals erwähnt, ist im geltenden Sozialhilfegesetz unmissverständlich das absolute Subsidiaritätsprinzip verankert. Gestützt auf dieses Prinzip sind Sozialhilfebeiträge im Umfang der seitens der Stipendienstelle angerechneten Lebenshaltungskosten zu kürzen. Folgerichtig stellen Sozialhilfebeiträge somit nicht Einkommen dar.
