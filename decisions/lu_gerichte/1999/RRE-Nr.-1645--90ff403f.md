@@ -1,0 +1,54 @@
+---
+decision_id: "lu_gerichte_RRE_Nr._1645"
+court: "LU Gerichte"
+court_id: "lu_gerichte"
+docket: "RRE Nr. 1645"
+docket_2: "1999 III Nr. 14"
+decided: "1999-11-19"
+language: "de"
+source_url: "https://gerichte.lu.ch/recht_sprechung/lgve/Ajax?EnId=2210"
+---
+
+# LU Gerichte RRE Nr. 1645
+
+## Regeste
+
+Verbot von Sportveranstaltungen an hohen Feiertagen. Die Austragung eines Fussball-Meisterschaftsspiels am Eidgenössischen Bettag ist nicht zulässig (§ 10 Unterabsatz a RLG). An die Gewährung einer Ausnahmebewilligung sind strenge Anforderungen zu stellen (§ 13 RLG). | Ruhetags- und Ladenschlussrecht
+
+## Text
+
+Luzern Kantonsgericht sonstige 19.11.1999 RRE Nr. 1645 (1999 III Nr. 14)
+
+Verbot von Sportveranstaltungen an hohen Feiertagen. Die Austragung eines Fussball-Meisterschaftsspiels am Eidgenössischen Bettag ist nicht zulässig (§ 10 Unterabsatz a RLG). An die Gewährung einer Ausnahmebewilligung sind strenge Anforderungen zu stellen (§ 13 RLG). | Ruhetags- und Ladenschlussrecht
+
+Rechtsprechung Luzern
+Instanz:
+Regierungsrat
+Abteilung:
+-
+Rechtsgebiet:
+Ruhetags- und Ladenschlussrecht
+Entscheiddatum:
+19.11.1999
+Fallnummer:
+RRE Nr. 1645
+LGVE:
+1999 III Nr. 14
+Leitsatz:
+Verbot von Sportveranstaltungen an hohen Feiertagen. Die Austragung eines Fussball-Meisterschaftsspiels am Eidgenössischen Bettag ist nicht zulässig (§ 10 Unterabsatz a RLG). An die Gewährung einer Ausnahmebewilligung sind strenge Anforderungen zu stellen (§ 13 RLG).
+Rechtskraft:
+Diese Entscheidung ist rechtskräftig.
+Entscheid:
+1. Der Beschwerdeführer plante für Sonntag, den 19. September 1999, die Durchführung eines Fussball-Meisterschaftsspiels in Luzern. Bei diesem Sonntag handelt es sich um den Eidgenössischen Bettag und damit um einen hohen Feiertag. Gemäss dem Ruhetags- und Ladenschlussgesetz vom 23. November 1987 (RLG; SRL Nr. 855) sind am Eidgenössischen Bettag Sportveranstaltungen untersagt (§ 10 Unterabs. a in Verbindung mit § 2 RLG). Dieses ausdrückliche Verbot wird vom Beschwerdeführer zu Recht nicht bestritten. Anlässlich der letzten Revision des RLG im Jahre 1997 wurde diese Bestimmung nicht verändert. Aufgehoben wurden damals jedoch das Verbot von Theatervorstellungen und Musikkonzerten sowie das Verbot von Kinovorführungen (Streichung von § 10 Unterabs. b und Anpassung von § 10 Unterabs. c). Das Verbot von Sportveranstaltungen am Eidgenössischen Bettag wurde somit durch die Nichtanpassung stillschweigend bestätigt.
+2. Gemäss § 13 Absatz 1 RLG kann das Militär-, Polizei- und Umweltschutzdepartement in besonderen Fällen Ausnahmen bewilligen. Diese Bestimmung wurde in der Revision des RLG vom 27. Januar 1997 eingefügt und ist seit dem 1. Juni 1997 in Kraft. In der sie erläuternden Botschaft des Regierungsrates an den Grossen Rat vom 4. Juni 1996 wurde nicht weiter definiert, wann ein "besonderer Fall" im Sinne dieser Bestimmung vorliegt. Es wurde darin lediglich festgehalten, dass "in ausserordentlichen Einzelfällen" die Möglichkeit bestehen soll, Ausnahmen zu bewilligen (vgl. Verhandlungen des Grossen Rates 1996, S. 860). Die vorberatende Kommission des Grossen Rates verabschiedete den neuen § 13 RLG diskussionslos. Im Grossen Rat wurde die regierungsrätliche Fassung von § 13 ebenfalls diskussionslos angenommen. Aus den Materialien geht somit nicht hervor, in welchen Ausnahmefällen der Gesetzgeber Sportveranstaltungen auch an hohen Feiertagen zulassen wollte. Die Frage einer Ausnahmebewilligung ist daher im konkreten Einzelfall unter dem Aspekt des Sinns und Zwecks der Ruhetagsbestimmungen und damit unter Wahrung des Kerngehalts des Verbots zu klären.
+3. Das RLG unterscheidet zwischen öffentlichen Ruhetagen einerseits (§ 1a) und hohen Feiertagen andererseits (§ 2). Öffentliche Ruhetage sind die Sonntage, Neujahr, Karfreitag, Auffahrt, Fronleichnam, der Bundesfeiertag, Mariä Himmelfahrt, Allerheiligen, Mariä Empfängnis, Weihnachten und der Stefanstag sowie, je nach Gemeinde, der Josefstag und der Tag des Patroziniumsfestes (§ 1a Abs. 1 RLG). Fünf dieser öffentlichen Ruhetage gelten als hohe Feiertage, nämlich der Karfreitag, der Ostersonntag, der Pfingstsonntag, der Eidgenössische Bettag und der Weihnachtstag (§ 2).
+§ 5 Unterabsatz a RLG untersagt an öffentlichen Ruhetagen jede Betätigung, die Lärm oder Störung im Übermass verursacht. In der Botschaft zum Entwurf eines Ruhetags- und Ladenschlussgesetzes vom 5. Mai 1987 hielt der Regierungsrat fest, das Verbot verschiedener Tätigkeiten an öffentlichen Ruhetagen habe den Zweck, die Ruhe und Würde des Tages zu gewährleisten und vor allem auf das religiöse Empfinden des einzelnen Bürgers Rücksicht zu nehmen. An den hohen Feiertagen sollen im Vergleich zu den öffentlichen Ruhetagen aus Achtung vor der Würde dieser Festtage zusätzliche Tätigkeiten untersagt sein (vgl. Verhandlungen des Grossen Rates 1987, S. 530 und 534). Diese zusätzlich verbotenen Tätigkeiten sind gemäss § 10 RLG: Sportveranstaltungen und Übungen der Schiessvereine, Veranstaltungen des Unterhaltungsgewerbes wie Schaustellungen und dergleichen, das Offenhalten von Spiellokalen sowie der Flugbetrieb auf den zivilen Flugplätzen und auf den Modellflugplätzen. Die Anforderungen an Ruhe und Würde dieser hohen Feiertage sind somit höher als bei den "gewöhnlichen" öffentlichen Ruhetagen. Dementsprechend müssen auch die Anforderungen an die Gewährung von Ausnahmebewilligungen an hohen Feiertagen streng sein. Gerade der Umstand, dass neben Sportveranstaltungen auch Übungen von Schiessvereinen sowie Flugbewegungen untersagt bzw. eingeschränkt sind, belegt, dass dem Aspekt der Ruhe grosse Bedeutung beigemessen wurde.
+4. § 10 Unterabsatz a RLG verbietet Sportveranstaltungen an hohen Feiertagen generell. Für die Erteilung einer Ausnahmebewilligung muss gemäss § 13 Absatz 1 RLG eine besondere Situation bzw. ein ausserordentlicher Einzelfall vorliegen. Dabei ist als eigentlicher Kerngehalt der Ruhetagsbestimmungen der Grundsatz zu wahren, dass die dem Tag angemessene Ruhe und Würde nicht gestört werden darf (§ 5 RLG). Zudem müsste die Durchführung des Anlasses an einem hohen Feiertag insofern zwingend sein, als eine Verschiebung wegen Kollisionen mit andern Terminen praktisch nicht oder nur mit einem völlig unverhältnismässigen Aufwand möglich wäre. Diese Voraussetzungen müssten kumulativ erfüllt sein, um dem Sinn und Zweck der gesetzlichen Bestimmungen zu genügen.
+a. Im vorliegenden Fall sind diese Anforderungen nicht erfüllt. Bei dem vom Beschwerdeführer geplanten Anlass handelt es sich um einen Routineanlass. Die Möglichkeit der Fernsehübertragung stellt heute im Zeitalter der Mediengesellschaft nichts Ausserordentliches dar. Weiter ist zu berücksichtigen, dass solche Meisterschaftsspiele wöchentlich stattfinden und das Spiel ohne weiteres wie ursprünglich geplant am Samstag anstatt am Sonntag hätte abgehalten werden können. Aus dem Spielplan für die Saison 1999/2000 geht klar hervor, dass das Spiel vorerst am Samstag, dem 18. September 1999, geplant war. Es liegt somit nicht die Situation vor, dass es für dieses Spiel das einzig mögliche Datum vom 19. September 1999 gab, sondern es wurde vielmehr von einem fixen, im Spielplan vorgemerkten Datum abgerückt und eine Verlegung auf Sonntag, den 19. September 1999, beschlossen, offenbar um das Spiel im Fernsehen übertragen zu können. Von einer ausserordentlichen Situation kann daher nicht gesprochen werden. Daran vermag auch das finanzielle Interesse des Beschwerdeführers an der Fernsehübertragung des Spiels nichts zu ändern.
+b. Ein solcher Grossanlass mit mehreren Tausend Zuschauerinnen und Zuschauern und dem damit zwangsläufig verbundenen Verkehrsaufkommen steht darüber hinaus mit der vom Gesetzgeber angestrebten Ruhe und Würde eines hohen Feiertags grundsätzlich im Widerspruch, selbst wenn es dabei zu keinerlei Ausschreitungen kommt. Gerade dies ist aber bei solchen Grossveranstaltungen nie ganz auszuschliessen, was als erschwerendes Element zu berücksichtigen ist. Ein Anlass mit diesen Dimensionen verstösst somit fast zwangsläufig gegen den Sinn und Zweck einer qualifizierten Ruhetagsbestimmung. Nur ganz spezielle Situationen könnten im Einzelfall eine Abweichung begründen.
+c. Würde im vorliegenden Fall eine ausserordentliche Situation bejaht, dann müssten aus Gründen der Rechtsgleichheit praktisch alle Sportanlässe an hohen Feiertagen bewilligt werden. Damit aber würde die Ausnahme zur Regel, und § 10 Unterabsatz a RLG verlöre seinen Sinn. Der Wille des Gesetzgebers würde umgangen.
+d. Nichts kann auch aus dem Umstand abgeleitet werden, dass neuerdings auch Kinovorführungen, Theatervorstellungen und Musikkonzerte am Bettag zugelassen sind. Der Gesetzgeber hat diese Tätigkeiten ausdrücklich neu bewilligt, es aber gleichzeitig beim Verbot von Sportveranstaltungen belassen. Dieser ausdrückliche Wille des Gesetzgebers ist zu respektieren. Dasselbe gilt für den Umstand, dass das Gesetz ausdrücklich auf Verkaufsgeschäfte in Sportzentren, Märkte, Tankstellen usw. keine Anwendung findet (§ 1 RLG). Dies entspricht dem klaren Willen des Gesetzgebers. Dem Regierungsrat steht insofern kein Ermessensspielraum zu.
+e. Nichts zu seinen Gunsten ableiten kann der Beschwerdeführer auch aus den aufgelegten Fernsehprogrammen und dem Veranstaltungskalender zum Bettag. Die Durchführung von Musikkonzerten und andern kulturellen Veranstaltungen (Theater, Kino) ist am Bettag ebenfalls nicht (mehr) verboten, im Gegensatz zum früheren Recht. Aus dem Umstand, dass solche Veranstaltungen stattfanden, können somit keine Rückschlüsse zugunsten des Beschwerdeführers gezogen werden.
+Nicht verboten ist andererseits die Ausstrahlung von Sportprogrammen am Fernsehen am Eidgenössischen Bettag. Wie aus der vom Beschwerdeführer aufgelegten Liste von Sendungen hervorgeht, handelte es sich dabei - gezwungenermassen - fast ausschliesslich um Sendungen über Sportanlässe im Ausland und nicht im Inland. So oder anders ist die Ausstrahlung solcher Sendungen am Bettag aber nicht untersagt, weshalb der Beschwerdeführer auch daraus nichts zu seinen Gunsten ableiten kann.
+f. Nicht relevant ist schliesslich die Frage, ob die potenziellen Zuschauerinnen und Zuschauer von Fussballspielen stattdessen einer andern Freizeitbeschäftigung nachgehen würden, welche ebenfalls oder in noch stärkerem Masse die Benutzung des Privatfahrzeugs mit sich brächte. Diese Überlegung musste sich der Gesetzgeber beim Erlass des Verbots von Sportveranstaltungen am Eidgenössischen Bettag machen. Der rechtsanwendenden Behörde steht dies jedoch nicht zu.
+5. Zusammenfassend ist festzuhalten, dass eine Bewilligung für die Austragung des Meisterschaftsspiels des Beschwerdeführers am Eidgenössischen Bettag nicht erteilt werden kann, dies auch nicht nachträglich. Der abweisende Entscheid der Vorinstanz ist gutzuheissen und die dagegen erhobene Beschwerde ist abzuweisen.
