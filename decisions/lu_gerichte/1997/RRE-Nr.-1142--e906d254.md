@@ -1,0 +1,48 @@
+---
+decision_id: "lu_gerichte_RRE_Nr._1142"
+court: "LU Gerichte"
+court_id: "lu_gerichte"
+docket: "RRE Nr. 1142"
+docket_2: "1997 III Nr. 9"
+decided: "1997-05-06"
+language: "de"
+source_url: "https://gerichte.lu.ch/recht_sprechung/lgve/Ajax?EnId=2178"
+---
+
+# LU Gerichte RRE Nr. 1142
+
+## Regeste
+
+Offerteingabe. Rechtzeitigkeit des Angebots. § 8 Absatz 1 SubmV. Die Rechtzeitigkeit des Angebots, das auf postalischem Weg eingereicht wird, kann vom rechtzeitigen Eintreffen bei der Eingabestelle abhängig gemacht werden. Die vergebende Behörde hat aber die nötigen Vorkehrungen zu treffen, dass bei der örtlichen Poststelle eingegangene Angebote innert angemessener Frist abgeholt werden. | Öffentliches Beschaffungswesen
+
+## Text
+
+Luzern Kantonsgericht sonstige 06.05.1997 RRE Nr. 1142 (1997 III Nr. 9)
+
+Offerteingabe. Rechtzeitigkeit des Angebots. § 8 Absatz 1 SubmV. Die Rechtzeitigkeit des Angebots, das auf postalischem Weg eingereicht wird, kann vom rechtzeitigen Eintreffen bei der Eingabestelle abhängig gemacht werden. Die vergebende Behörde hat aber die nötigen Vorkehrungen zu treffen, dass bei der örtlichen Poststelle eingegangene Angebote innert angemessener Frist abgeholt werden. | Öffentliches Beschaffungswesen
+
+Rechtsprechung Luzern
+Instanz:
+Regierungsrat
+Abteilung:
+-
+Rechtsgebiet:
+Öffentliches Beschaffungswesen
+Entscheiddatum:
+06.05.1997
+Fallnummer:
+RRE Nr. 1142
+LGVE:
+1997 III Nr. 9
+Leitsatz:
+Offerteingabe. Rechtzeitigkeit des Angebots. § 8 Absatz 1 SubmV. Die Rechtzeitigkeit des Angebots, das auf postalischem Weg eingereicht wird, kann vom rechtzeitigen Eintreffen bei der Eingabestelle abhängig gemacht werden. Die vergebende Behörde hat aber die nötigen Vorkehrungen zu treffen, dass bei der örtlichen Poststelle eingegangene Angebote innert angemessener Frist abgeholt werden.
+Rechtskraft:
+Diese Entscheidung ist rechtskräftig.
+Entscheid:
+1. Eine Ausschreibung von Bauarbeiten im Kantonsblatt enthielt unter anderem folgende Angaben:
+"Offerteingabe: Montag, 3. Februar 1997 (Poststempel, A-Post). Das Risiko, dass das Angebot rechtzeitig bei der Gemeindekanzlei eintrifft, liegt beim Bewerber.
+Eingabestelle: Gemeindekanzlei.
+Offertöffnung: Mittwoch, 5. Februar 1997, 11.00 Uhr."
+Bei der Offertöffnung, die zum angegebenen Zeitpunkt stattfand, lag die am 3. Februar 1997 - also am letzten Tag der Eingabefrist - als eingeschriebenes Paket der Post übergebene Offerte der Beschwerdeführerin nicht vor. Die Vorinstanz gelangte daher zur Auffassung, diese Offerte sei wohl rechtzeitig bei der Post aufgegeben worden, aber nicht rechtzeitig bei der Gemeindekanzlei eingetroffen, weshalb sie für das weitere Submissionsverfahren nicht berücksichtigt werden könne.
+2. Die Beschwerdeführerin machte in ihrer Aufsichtsbeschwerde unter anderem geltend, vor allem falle schwer ins Gewicht, dass die Vorinstanz die Offerte nicht rechtzeitig abgeholt habe, obwohl diese bereits am Tag der Offertöffnung um 7.00 Uhr im Postfach avisiert worden sei und zum Abholen bereitgelegen habe. Eine in einer Rechtsbeziehung mit einem Gemeinwesen - um eine solche handle es sich bei den am Submissionsverfahren beteiligten Offertstellern und der vergebenden Behörde - stehende Person dürfe nach Treu und Glauben erwarten, dass das Postfach morgens vollständig geleert werde. Dies entspreche der Gepflogenheit im Geschäftsverkehr. Bekanntlich erfolge der grosse Schub an Postsendungen am Morgen, so dass es zumutbar und üblich sei, dass auch am Morgen das Postfach geleert und die über Nacht eingetroffenen Sendungen (inklusive Einschreibesendungen) entgegengenommen würden. Wollte man die Argumentation der Vorinstanz übernehmen, so bedeutete das, dass es eine vergebende Behörde in der Hand hätte, die ihr genehme Post entgegenzunehmen und die andere im Postfach liegenzulassen. Auf diese Weise könnten beispielsweise ohne weiteres einheimische Offertsteller bevorteilt werden. Mit ihrem Verhalten habe die Vorinstanz gegen Treu und Glauben verstossen. Ein solches Vorgehen dürfe nicht geschützt werden. Gerade bei einer solch kurzen Zeit zwischen Endtermin der Eingabefrist und der Offertöffnung hätte es zwingend an der Vorinstanz gelegen, wenigstens noch vor der Offertöffnung das Postfach zu leeren bzw. die eingeschriebenen Sendungen entgegenzunehmen.
+3. Gemäss § 8 Absatz 1 der Verordnung zum Submissionsgesetz vom 9. Juli 1973 (SRL Nr. 734; SubmV) muss das Angebot bis zu dem in der Ausschreibung festgelegten Zeitpunkt verschlossen bei der bezeichneten Stelle eingereicht oder zu ihren Handen der schweizerischen Post übergeben sein. Ein Bewerber kann also wahlweise sein Angebot entweder direkt bei der Eingabestelle abgeben oder auf postalischem Weg zustellen. Die Beschwerdeführerin hat die zweite Einreichungsart gewählt und ihre Offerte am letzten Tag der Eingabefrist der Post übergeben. Insoweit ist die Offerte unbestrittenermassen fristgerecht eingereicht worden. Die Vorinstanz hat nun aber in der Ausschreibung eine weitere Anforderung an die Rechtzeitigkeit der Offerteingabe festgelegt, nämlich "dass das Angebot rechtzeitig bei der Gemeindekanzlei eintrifft". Sie hat damit offensichtlich potentielle Bewerber dazu anhalten wollen, ihre Angebote so rechtzeitig der Post zu übergeben, dass sie spätestens im Zeitpunkt der Offertöffnung vorliegen. Ein solches Vorgehen ist grundsätzlich nicht zu beanstanden. Es ist indessen nur haltbar, wenn die vergebende Behörde die nötigen Vorkehrungen trifft, damit bei der örtlichen Poststelle eingegangene Offerten innert angemessen kurzer Frist abgeholt werden. Das muss um so mehr gelten, wenn - wie im vorliegenden Fall - die Offerteingabe auf den Montag und die Offertöffnung bereits auf den folgenden Mittwoch um 11.00 Uhr festgesetzt wird. Denn bei einer solchen verhältnismässig kurzen Zeitspanne zwischen dem letzten Tag der Offerteingabefrist und dem Zeitpunkt der Offertöffnung muss damit gerechnet werden, dass selbst als A-Post beförderte Sendungen erst am Morgen des Offertöffnungstages bei der Bestimmungspoststelle eingehen. Das ist denn auch bei der Offerte der Beschwerdeführerin unbestrittenermassen der Fall gewesen, wobei allerdings diese - entgegen der Angabe in der Ausschreibung - nicht als A-Post, sondern als eingeschriebenes Paket zugestellt worden ist. Die Wahl einer andern Sendungsart durch die Beschwerdeführerin ändert aber nichts an der dargelegten Verpflichtung der Vorinstanz, für eine rechtzeitige Abholung der bei der örtlichen Poststelle eingegangenen Offerten zu sorgen. Wie die Beschwerdeführerin zu Recht sinngemäss geltend macht, wäre die Vorinstanz gehalten gewesen, im Verlauf des Vormittags des 5. Februar 1997, also unmittelbar vor der Offertöffnung, die seit der ersten, vor 7.00 Uhr erfolgten Leerung des Postfachs eingegangenen Sendungen abzuholen. Nachdem sie dies nach ihren eigenen Angaben nicht getan hat, kann sie der Beschwerdeführerin nicht entgegenhalten, ihre Offerte sei nicht rechtzeitig auf der Gemeindekanzlei eingetroffen. Die Vorinstanz hätte es ohne weiteres in der Hand gehabt, für das rechtzeitige Eintreffen der Offerte zu sorgen. So ist in Würdigung aller Umstände des vorliegenden Falls davon auszugehen, dass die Offerte der Beschwerdeführerin entsprechend der Ausschreibung rechtzeitig eingereicht und auch rechtzeitig eingetroffen ist. Die Aufsichtsbeschwerde ist also begründet.
