@@ -1,0 +1,49 @@
+---
+decision_id: "lu_gerichte_RRE_Nr._2353"
+court: "LU Gerichte"
+court_id: "lu_gerichte"
+docket: "RRE Nr. 2353"
+docket_2: "1993 III Nr. 13"
+decided: "1993-08-24"
+language: "de"
+source_url: "https://gerichte.lu.ch/recht_sprechung/lgve/Ajax?EnId=2110"
+---
+
+# LU Gerichte RRE Nr. 2353
+
+## Regeste
+
+Verspätete Parteianbringen. §§ 53 und 106 Abs. 2 VRG. Erhebliche Parteianbringen können auch dann berücksichtigt werden, wenn sie verspätet vorgebracht wurden. Ihre Berücksichtigung ist indessen nicht zwingend. Was von einer Partei wegen nachlässiger Prozessführung oder gar zwecks Prozessverschleppung verspätet vorgebracht wird, kann deshalb bei der Entscheidung ausser acht gelassen werden. Wie intensiv die Sachverhaltsermittlung einzusetzen hat, hängt jeweils von der Natur der Streitsache und der Befähigung der Parteien zur Wahrung ihrer Interessen ab. | Verfahren
+
+## Text
+
+Luzern Kantonsgericht sonstige 24.08.1993 RRE Nr. 2353 (1993 III Nr. 13)
+
+Verspätete Parteianbringen. §§ 53 und 106 Abs. 2 VRG. Erhebliche Parteianbringen können auch dann berücksichtigt werden, wenn sie verspätet vorgebracht wurden. Ihre Berücksichtigung ist indessen nicht zwingend. Was von einer Partei wegen nachlässiger Prozessführung oder gar zwecks Prozessverschleppung verspätet vorgebracht wird, kann deshalb bei der Entscheidung ausser acht gelassen werden. Wie intensiv die Sachverhaltsermittlung einzusetzen hat, hängt jeweils von der Natur der Streitsache und der Befähigung der Parteien zur Wahrung ihrer Interessen ab. | Verfahren
+
+Rechtsprechung Luzern
+Instanz:
+Regierungsrat
+Abteilung:
+-
+Rechtsgebiet:
+Verfahren
+Entscheiddatum:
+24.08.1993
+Fallnummer:
+RRE Nr. 2353
+LGVE:
+1993 III Nr. 13
+Leitsatz:
+Verspätete Parteianbringen. §§ 53 und 106 Abs. 2 VRG. Erhebliche Parteianbringen können auch dann berücksichtigt werden, wenn sie verspätet vorgebracht wurden. Ihre Berücksichtigung ist indessen nicht zwingend. Was von einer Partei wegen nachlässiger Prozessführung oder gar zwecks Prozessverschleppung verspätet vorgebracht wird, kann deshalb bei der Entscheidung ausser acht gelassen werden. Wie intensiv die Sachverhaltsermittlung einzusetzen hat, hängt jeweils von der Natur der Streitsache und der Befähigung der Parteien zur Wahrung ihrer Interessen ab.
+Rechtskraft:
+Diese Entscheidung ist rechtskräftig.
+Entscheid:
+1. Die Verwaltungsbeschwerde vom 16. Juli 1992 wurde, wie vom Beschwerdegegner zu Recht nicht bestritten wird, frist- und formgerecht eingereicht. Die Voraussetzungen für einen Sachentscheid im Sinne von § 107 Abs. 2 VRG sind somit bezüglich dieser Rechtsvorkehr erfüllt. Die Eingabe der Beschwerdeführer vom 22. August 1992 erfolgte jedoch verspätet. Es ist deshalb zu prüfen, ob diese verspätete Eingabe im vorliegenden Verfahren zu berücksichtigen ist.
+2. Die Behörde prüft vor ihrem Entscheid alle rechtzeitigen Anbringen der Parteien (§ 106 Abs. 1 VRG). Erhebliche Parteianbringen kann sie auch dann berücksichtigen, wenn sie verspätet vorgebracht wurden (§ 106 Abs. 1 VRG). Verspätet eingereichte Beweismittel können somit ebenfalls zugelassen werden. Ihre Berücksichtigung ist indessen nicht zwingend. Bei § 106 Abs. 2 VRG handelt es sich nämlich um eine sogenannte "Kann-Vorschrift", bei deren Anwendung der entscheidenden Behörde ein gewisser Ermessensspielraum zusteht (Kölz, Kommentar zum VRG des Kantons Zürich, Zürich 1978, N 4 zu § 28; Gadola, Das verwaltungsinterne Beschwerdeverfahren, Zürich 1991, S. 276).
+§ 106 Abs. 2 VRG ist Ausfluss der in § 53 VRG statuierten Untersuchungsmaxime. Danach hat die Behörde den rechtserheblichen Sachverhalt von Amtes wegen festzustellen. Es ist mit anderen Worten ihre amtliche Pflicht, nach der materiellen Wahrheit zu forschen. Sie ist dabei weder an die Sachdarstellung noch an die Beweisanträge der beteiligten Parteien gebunden. Der Untersuchungsgrundsatz gilt indes nicht uneingeschränkt, sondern findet seine Grenze in gewissen Mitwirkungspflichten der Parteien sowie in der tatbeständlichen, ja mithin sogar in der beweismässigen Begründungspflicht ihrer Vorbringen (Gadola, a. a. O., S. 81 f.). Was von einer Partei wegen nachlässiger Prozessführung oder gar zwecks Prozessverschleppung verspätet vorgebracht wird, kann deshalb bei der Entscheidung ausser acht gelassen werden. Unter Umständen kann der Ökonomie und Raschheit des Verfahrens sogar Vorrang vor einer vollständigen Sachverhaltsermittlung zukommen (Gadola, a.a.O., S. 81; Gygi, Bundesverwaltungsrechtspflege, 2. Aufl., Bern 1983, S. 67f.). Wie intensiv die behördliche Sachverhaltsermittlung einzusetzen hat, hängt jeweils von der Natur der Streitsache und der Befähigung der Parteien zur Wahrung ihrer Interessen ab (Gygi, a. a. O., S. 209; Gadola, a. a. O., S. 82).
+3. Die Beschwerdeführer erneuern in der verspäteten Eingabe vom 22. August 1992 den bereits in der Beschwerdeschrift vom 16. Juli 1992 gestellten Antrag. Ferner erläutern sie nunmehr einlässlich ihre in der Beschwerdeschrift lediglich summarisch begründeten Rügen. Neue Rügen bringen sie keine vor. Mit der Ergänzung vom 22. August 1992 wird die Verwaltungsbeschwerde vom 16. Juli 1992 also weder in bezug auf den Antrag noch hinsichtlich der einzelnen Rügen erweitert. Somit wird das Verfahren auch nicht auf Punkte ausgedehnt, die nicht ohnehin aufgrund der rechtzeitig eingereichten Beschwerde zu prüfen sind. Unter dem Gesichtspunkt der Prozessökonomie besteht daher keine Veranlassung, die umstrittene Eingabe der Beschwerdeführer vom 22. August 1992 aus dem Recht zu weisen oder darauf nicht einzutreten. Die Untersuchungsmaxime gebietet es vielmehr, auch die in der Eingabe vom 22. August enthaltenen Vorbringen der Beschwerdeführer zuzulassen, zumal es sich beim Rechtsbereich, den sie beschlagen (Bau- und Planungsrecht, Umweltschutzrecht und Verwaltungsverfahrensrecht), um zwingendes Recht handelt. Mithin hätte ohnehin von Amtes wegen auf die Ermittlung der ergänzenden Vorbringen - soweit sie rechtserhebliche Tatsachen betreffen - hingewirkt werden müssen.
+Die vom Beschwerdegegner gestützt auf die §§ 35 und 135 Abs. 2 VRG erhobenen Einwände erweisen sich demgegenüber als unbegründet. Sofern eine Verwaltungsbeschwerde - wie im vorliegenden Fall - form- und fristgerecht eingereicht wird, ist grundsätzlich darauf einzutreten. Erfolgt darauf eine weitere, verspätete aber erhebliche Eingabe der beschwerdeführenden Partei, liegt es gemäss § 106 Abs. 2 VRG im Ermessen der Behörde, auch darauf einzutreten. Eines Fristerstreckungsgrundes im Sinne von § 35 VRG bedarf es hierfür nicht. Ebensowenig ist eine Nachfrist im Sinne von § 135 Abs. 2 VRG erforderlich. Es gelten vielmehr die eingangs zitierten Grundsätze (vgl. oben E. 1.2).
+Die Berufung des Beschwerdegegners auf LGVE 1990 III Nr. 5 geht ebenfalls fehl. Denn der Sachverhalt, der jenem Entscheid zugrunde lag, ist mit dem vorliegenden nicht identisch. In LGVE 1990 III Nr. 5 ging es um eine rechtzeitig eingereichte Rechtsschrift, auf die jedoch nicht eingetreten werden konnte, da sie weder Antrag noch Begründung enthielt. Im vorliegenden Verfahren handelt es sich dagegen lediglich um eine verspätet eingereichte Ergänzung zu einer form- und fristgerecht erhobenen Verwaltungsbeschwerde, weshalb darauf durchaus eingetreten werden kann.
+Schliesslich kann im vorliegenden Fal1 auch weder von nachlässiger Prozessführung noch von Prozessverschleppung gesprochen werden. Der angefochtene Entscheid vom 7. Juli 1992 wurde den Parteien am 14. Juli 1992 zugestellt. Am 16. Juli 1992, also bereits zwei Tage später, reichten die Beschwerdeführer ihre Verwaltungsbeschwerde ein und machten geltend, infolge verschiedener Ferienabwesenheiten könnten die vorgebrachten Rügen erst später (bis spätestens 25. August 1992) ausführlich erläutert werden. In Anbetracht der Mitte Juli beginnenden Sommerferienzeit erscheinen diese Ausführungen glaubhaft. Eine Nachlässigkeit oder gar Verschleppungsabsicht kann im Vorgehen der Beschwerdeführer jedenfalls nicht erblickt werden. Dies um so weniger, als die "Ergänzungen und Erläuterungen" innert der angekündigten Frist, nämlich am 22. August 1992, eingereicht wurden. Nach der eingangs zitierten Literatur gilt es dabei insbesondere auch zu beachten, dass es sich bei den Beschwerdeführern um juristische Laien handelt, deren Interessen nicht von einem berufsmässigen Parteivertreter wahrgenommen werden.
+Zusammenfassend ist somit festzuhalten, dass die verspätet eingereichte Eingabe der Beschwerdeführer vom 22. August 1992 zu berücksichtigen ist. Der Antrag des Beschwerdeführers, auf die Eingabe sei nicht einzutreten, eventuell sei sie aus dem Recht zu weisen, ist abzuweisen.
