@@ -1,0 +1,27 @@
+---
+decision_id: "lu_gerichte_2233"
+court: "LU Gerichte"
+court_id: "lu_gerichte"
+chamber: "Regierungsrat"
+docket: "RRE Nr. 1529"
+decided: "2001-04-11"
+published: "2001-11-06"
+language: "de"
+legal_area: "Zivilrecht"
+source_url: "https://gerichte.lu.ch/recht_sprechung/lgve/Ajax?EnId=2233"
+cites_law: ["switzerland/bund/acts/210/art-369.md", "switzerland/bund/acts/210/art-395.md", "switzerland/bund/acts/210/art-436.md", "switzerland/bund/acts/210/art-439.md"]
+---
+
+# Zivilrecht
+
+## Regeste
+
+Beiratschaft. Aufhebung, Begutachtung. Artikel 395 und 439 ZGB. Die Unterstützung der verbeirateten Person durch Familienangehörige, Freunde oder sonstige Privatpersonen macht eine Beiratschaft nicht von vornherein unnötig. Bei der Aufhebung einer Beirat- oder Beistandschaft ist aufgrund der Umstände des Einzelfalls zu entscheiden, ob eine Begutachtung notwendig ist.
+
+## Text
+
+4.2 Der Beschwerdeführer macht weiter geltend, er brauche keine Beiratschaft, weil er von seiner Freundin persönlich und von einer Treuhandgesellschaft fachlich beraten werde. Seine Freundin führt in ihrem Schreiben vom 11. April 2001 an den Regierungsrat in diesem Zusammenhang aus, dass der Beschwerdeführer während des Zusammenlebens mit ihr keine Beiratschaft benötige. Auch die Treuhandgesellschaft empfiehlt mit Schreiben vom 10. April 2001 die Aufhebung der Beiratschaft.
+Vormundschaftliche Massnahmen sollen nur getroffen werden, soweit die Umgebung des Schützlings den nötigen Schutz nicht zu bieten vermag, und sie sollen die Freiheit nicht mehr, aber auch nicht weniger beschränken als nötig (Ernst Langenegger, Basler Kommentar, Basel 1999, N 34 zu Art. 369 ZGB). Die Unterstützung durch private Stellvertreter, beispielsweise durch Familienangehörige oder durch Freunde, macht dabei eine Beiratschaft nicht von vornherein unnötig. Einerseits wird bei einer solchen persönlichen Betreuung bzw. einer privaten fachlichen Beratung durch ein Treuhandbüro die Handlungsfähigkeit des Beschwerdeführers nicht eingeschränkt. Eine Beschränkung der Handlungsfähigkeit erscheint aber gerade bei Personen wie beim Beschwerdeführer als angezeigt, wenn es notwendig ist, sie davor zu schützen, sich durch rechtsgeschäftliche Dispositionen selber zu schaden. Dabei reicht für die Anordnung einer Beiratschaft bereits das Vorhandensein einer Gefahr, dass sich die betroffene Person selber schadet, indem sie unvorteilhafte rechtsgeschäftliche Dispositionen auf dem Gebiet der Vermögensverwaltung bzw. durch einzelne Rechtsgeschäfte gemäss Artikel 395 Absatz 1 ZGB treffen würde (Langenegger, a.a.O., N 6 zu Art. 395 ZGB). Andererseits ist bei einer privaten Vertretung des Beschwerdeführers aufgrund von früheren Vorkommnissen nicht ausgeschlossen, dass er sich durch private Dritte massgeblich beeinflussen lässt und dadurch finanzielle Einbussen erleidet. Zusammenfassend besteht im vorliegenden Fall ohne Beiratschaft und ohne entsprechende Beschränkung der Handlungsfähigkeit die Gefahr, dass der Beschwerdeführer sich oder seine Familienangehörigen durch Vermögensdispositionen im Zusammenhang mit seinen Grundstücken oder anderen Rechtsgeschäften schädigt. Die Dispositionen im Zusammenhang mit den Grundstücken sind für den Beschwerdeführer und seine Familie aufgrund seiner finanziellen Situation - wie dargelegt - von existientieller Bedeutung. Bei dieser Ausgangslage ist die Aufrechterhaltung der angeordneten Beiratschaft - auch bei einer persönlichen Unterstützung durch seine Freundin und einer fachlichen Beratung durch die von ihm erwähnte Treuhandgesellschaft - nach wie vor angezeigt.
+5. Der Beschwerdeführer beantragt in seiner Eingabe vom 8. Oktober 2001 ein neues Gutachten, sofern am Gutachten des Amtsarztes vom 3. Dezember 1997 festgehalten werde.
+Gemäss Bundesgericht wird eine Begutachtung bei der Anordnung wie auch bei der Aufhebung einer Beirat- oder Beistandschaft nicht formell vorausgesetzt. Es ist aufgrund der Umstände des Einzelfalls zu entscheiden, ob eine Begutachtung notwendig ist. Die Einholung eines Gutachtens drängt sich aber auf jeden Fall auf, wenn kein zweifelsfreier Schluss hinsichtlich Schutzbedürftigkeit der verbeirateten Person möglich ist (Thomas Geiser, Basler Kommentar, Basel 1999, N 1 und 7 zu Art. 436 ZGB und N 14 zu Art. 439 ZGB; BGE 113 II 231f.). Im Rahmen der Abklärung, ob eine Beiratschaft aufzuheben ist, ist kein erneutes Gutachten mehr einzuholen, wenn sich die Verhältnisse seit der Anordnung der Beiratschaft nicht wesentlich geändert haben (vgl. LGVE 1986 III Nr. 19).
+Im vorliegenden Fall liegen gemäss Erwägung 3 übereinstimmende Aussagen von Personen vor, die einen besonders intensiven und langdauernden Kontakt mit dem Beschwerdeführer gehabt haben. Aufgrund dieser Aussagen ist davon auszugehen, dass der Beschwerdeführer nach wie vor schutzbedürftig ist. Auch seine heutige Lebenssituation ändert nichts an dieser klaren Ausgangslage. Nach der herrschenden Praxis kann daher auf die Anordnung eines aktuellen Gutachtens verzichtet werden. Ganz abgesehen davon ging der Amtsarzt in seinem Gutachten nur auf den Alkoholkonsum ein, somit nur auf einen der beiden Gründe, die für die Anordnung der Beiratschaft massgebend waren. Selbst wenn daher aus dem Gutachten hervorginge, dass der Beschwerdeführer in der Zwischenzeit fähig ist, mit dem Alkohol verantwortungsbewusst umzugehen, bestehen aufgrund der geschilderten Ausgangslage nach wie vor genügend Anhaltspunkte für die Schutzbedürftigkeit des Beschwerdeführers.
