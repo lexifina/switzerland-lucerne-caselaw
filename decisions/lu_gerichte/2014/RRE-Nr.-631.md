@@ -1,0 +1,52 @@
+---
+decision_id: "lu_gerichte_RRE_Nr._631"
+court: "LU Gerichte"
+court_id: "lu_gerichte"
+docket: "RRE Nr. 631"
+docket_2: "2014 VI Nr. 10"
+decided: "2014-06-03"
+language: "de"
+source_url: "https://gerichte.lu.ch/recht_sprechung/lgve/Ajax?EnId=10389"
+---
+
+# LU Gerichte RRE Nr. 631
+
+## Regeste
+
+Protokollbemerkungen entfalten gegenüber Dritten grundsätzlich keine Rechtswirkungen. Bauvorschriften müssen eine aus sich selber heraus nachvollziehbare, widerspruchsfreie und für alle verbindliche und zweckmässige Regelung enthalten. | § 34 PBG | Planungs- und Baurecht
+
+## Text
+
+Luzern Kantonsgericht sonstige 03.06.2014 RRE Nr. 631 (2014 VI Nr. 10)
+
+Protokollbemerkungen entfalten gegenüber Dritten grundsätzlich keine Rechtswirkungen. Bauvorschriften müssen eine aus sich selber heraus nachvollziehbare, widerspruchsfreie und für alle verbindliche und zweckmässige Regelung enthalten. | § 34 PBG | Planungs- und Baurecht
+
+Rechtsprechung Luzern
+Instanz:
+Regierungsrat
+Abteilung:
+-
+Rechtsgebiet:
+Planungs- und Baurecht
+Entscheiddatum:
+03.06.2014
+Fallnummer:
+RRE Nr. 631
+LGVE:
+2014 VI Nr. 10
+Gesetzesartikel:
+§ 34 PBG
+Leitsatz:
+Protokollbemerkungen entfalten gegenüber Dritten grundsätzlich keine Rechtswirkungen. Bauvorschriften müssen eine aus sich selber heraus nachvollziehbare, widerspruchsfreie und für alle verbindliche und zweckmässige Regelung enthalten.
+Rechtskraft:
+Dieser Entscheid ist rechtskräftig.
+Entscheid:
+Aus den Erwägungen:
+4. Gegenstand der vorliegenden Beschwerde bildet das Grundstück Nr. 1444, Grundbuch Luzern linkes Ufer (Baurechtsgrundstück Nr. 3771), auf dem sich heute die Theaterwerkstatt mit einem Barackenanbau sowie eine Spielwiese mit Spielgeräten und einem überdeckten Aufenthaltsbereich befinden. Der bisher im Gebiet Tribschenstadt geltende Bebauungsplan B 132 Tribschen / Bahnhof, der die Bebaubarkeit im Wesentlichen mit Baulinien und Anzahl Geschossen festlegte, wird mit dem Erlass der neuen Bau- und Zonenordnung (BZO) aufgehoben. Das Grundstück Nr. 1444 ist im Zonenplan der 5-geschossigen Wohnzone 183 zugewiesen. Dort gelten gemäss Anhang zum Bau- und Zonenreglement (BZR) die geschlossene Bauweise sowie Art. 12 BZR. Gemäss diesem als Tribschenstadtzone betitelten Artikel ist in der Wohnzone mit der Ordnungsnummer 183 die Geschosszahl gemäss Zonenplan zulässig (Abs. 1). Im Zonenplan sind für das Grundstück Nr. 1444 vier Vollgeschosse sowie ein Attikageschoss festgelegt, wobei das Attikageschoss auf einen Fünftel des darunterliegenden Vollgeschosses beschränkt ist (Art. 12 Abs. 3 Satz 1 BZR). Ein Nutzungsmass (Überbauungsziffer) wurde für das Grundstück nicht festgelegt. Im Gegensatz zu den benachbarten Baufeldern der Tribschenstadt wurde der heutige Baukörper auch nicht mit Baulinien fixiert. Die Sonderbaulinien und die Baulinien folgen mit Ausnahme des Grenzbereichs zu Grundstück Nr. 3843 (Kindergarten) den Grundstücksgrenzen und umfassen somit fast das ganze Grundstück. Somit erlauben die Bauvorschriften theoretisch eine praktisch vollständige Überbauung des Grundstücks Nr. 1444. Eine Baute auf Grundstück Nr. 1444 könnte überdies bis an die Ecke des Gebäudes auf Grundstück Nr. 3831 herangeführt werden.
+5. Die Beschwerde richtet sich gegen die anlässlich der Revision der BZO beschlossene Festlegung der Baulinien sowie den Verzicht auf die Festlegung einer maximal zulässigen Höhe einer allfälligen Baute. Die Beschwerdeführer verlangen, dass die Bebauung und die Aussenraumgestaltung im Gebiet der Theaterwerkstatt und der Spielwiese gemäss der Wettbewerbsidee von 1998 erfolgen. Sie machen geltend, dass dieses Gebiet, welches ein beliebter Treffpunkt innerhalb der gesamten Tribschenüberbauung sei, ein wesentliches Qualitätsmerkmal des die Grundlage für die Ausarbeitung des Bebauungsplanes B 132 Tribschen / Bahnhof bildenden Wettbewerbsergebnisses dargestellt habe. Das Gebiet solle als Spielwiese, Aufenthaltsbereich beziehungsweise öffentlicher Freiraum erhalten werden. Die mit der Revision der BZO erfolgte planerische Festlegung führe zu einer vollständigen Überbaubarkeit des Areals. Dies sei nicht sachgerecht und damit rechtswidrig.
+5.1 Mit Vernehmlassung vom 25. September 2013 hält die Stadt Luzern fest, es entspreche grundsätzlich der politischen Absicht, den Raum zwischen der Theaterwerkstatt und den Gebäuden an der Cécile-Lauber-Gasse 6 und der Anna-Neumann-Gasse 5 als öffentlichen Freiraum zu erhalten. Die Stadt habe sich im Rahmen der Protokollbemerkung des Grossen Stadtrates dazu verpflichtet, bei der zukünftigen Nutzung beziehungsweise Neugestaltung der Theaterwerkstatt das Ergebnis des Wettbewerbs "Wohnen im Tribschen" aus dem Jahr 1998 umzusetzen. Dabei sei jedoch zu beachten, dass, je nachdem, ob die Theaterwerkstatt stehen bleibe oder nicht, die Aussenraumgestaltung verschieden aussehen könne. Eine Festlegung der Baulinie, wie sie die Beschwerdeführer entlang der Theaterwerkstatt verlangten, könne richtig sein, sie könne sich jedoch für die zukünftige Planung in diesem Bereich auch als falsch beziehungsweise behindernd auswirken. Mit dem Verzicht auf diese Baulinie sei mehr Flexibilität gewährleistet. Gemäss Zonenplan wäre es analog dem bisher geltenden Bebauungsplan B 132 zwar möglich, die ganze ausgeschiedene Wohnzone zu bebauen. Gestützt auf das klare Bekenntnis des Grossen Stadtrates, den Aussenraum gemäss Wettbewerbsidee von 1998 zu gestalten beziehungsweise freizuhalten, werde sich der Stadtrat in einem allfälligen Baubewilligungsverfahren an diese Vorgabe zu halten haben. Dies nicht zuletzt auch darum, weil sich im Gebäude Anna-Neumann-Gasse 5 ein städtischer Kindergarten befinde. Der vorhandene Grünraum diene denn auch dem Kindergarten als Spielfläche. Letztlich sei darauf hinzuweisen, dass es sich bei diesem Baufeld innerhalb der Tribschenstadt infolge der bestehenden Theaterwerkstatt um eine spezielle Situation handle, welche auch spezielle planerische Massnahmen erfordere.
+5.2 Die Stadt Luzern hat sich mit Schreiben vom 26. März 2013 an die Beschwerdeführer A und B gewandt und ihnen die anlässlich der Verabschiedung der BZO vom 17. Januar 2013 erfolgte Protokollbemerkung des Grossen Stadtrates zugestellt. Die Protokollbemerkung lautet wie folgt:
+"Im Teilgebiet der Theaterwerkstatt und der Spielwiese erfolgt eine Bebauung und Aussenplanung gemäss der Wettbewerbsidee von 1998."
+Die Protokollbemerkung wurde alsdann im Bericht und Antrag 31/2012 des Stadtrates vom 22. August 2012 auf S. 173 publiziert. Protokollbemerkungen sind ein Instrument zur verwaltungsinternen Entscheidfindung sowie eine gedankliche Stütze, um bei grösseren raumplanerischen Projekten sicherzustellen, dass im Zuge des aufwendigen Verfahrens nichts übersehen wird. Gegenüber Dritten entfalten sie grundsätzlich keine Rechtswirkung. Eine gewisse Bindung für die rechtsanwendenden Behörden entfaltet die Protokollbemerkung im vorliegenden Fall jedoch insofern, als sie über die politischen Motive und Absichten des Parlaments Auskunft zu geben vermag.
+5.3 Die Stadt führt in ihrer Vernehmlassung aus, dass es gemäss den Festlegungen im Zonenplan möglich wäre, die ganze ausgeschiedene Wohnzone auf Grundstück Nr. 1444 zu bebauen. Mit der oben zitierten Protokollbemerkung hat der Grosse Stadtrat klar die Meinung geäussert, dass im Teilgebiet der Theaterwerkstatt und der Spielwiese eine Bebauung und Aussenplanung gemäss der Wettbewerbsidee von 1998 zu erfolgen hat. Dies steht allerdings im Widerspruch zu den rechtsverbindlich festgelegten Baulinien, aus denen sich eine solche Einschränkung der Bebaubarkeit nicht ergibt. Damit kommt der wirkliche planerische Wille in den Festlegungen der Bau- und Zonenordnung nur ungenügend zum Ausdruck, weshalb bezüglich Grundstück Nr. 1444 eine widersprüchliche Planung vorliegt. Auch besteht vorliegend kein Grund, dass die Bauvorschriften für das Grundstück Nr. 1444 im Gegensatz zu den benachbarten Grundstücken mit Ausnahme der Höhenlimitierung ohne Beschränkung des Nutzungsmasses eine vollständige Überbauung zulassen. Von der Vor¬instanz wird zwar nicht bestritten, dass die Spielwiese auf Grundstück Nr. 1444 grundsätzlich freigehalten werden soll, und sie legt glaubhaft dar, dass sie sich an die Vorgaben der Protokollbemerkung halten will. Bauvorschriften müssen indes eine aus sich selber heraus nachvollziehbare, widerspruchsfreie und für alle verbindliche und zweckmässige Regelung enthalten. Es kann nicht auf den guten Willen eines Grundeigentümers oder einer Behörde ankommen. Der Stadtrat könnte nämlich das Grundstück auch einem privaten Investor verkaufen, der nicht an die Protokollbemerkung des Grossen Stadtrates, der keine grundeigentümerverbindliche Wirkung zukommt, gebunden wäre. Unklar ist im Übrigen, was genau freizuhalten ist. Weder die Lage der freizuhaltenden Fläche noch deren Umfang ergeben sich aus dem Zonenplan. Auch das auf Grundstück Nr. 1444 zulässige Bauvolumen ergibt sich aus der Bau- und Zonenordnung nicht, da keine Überbauungsziffer festgelegt wurde und die Baulinien gemäss Aussagen der Stadt offenbar nicht den überbaubaren Bereich festlegen sollen. Eine sachgerechte planerische Lösung ist auf verschiedene Arten denkbar. Es kann zum Beispiel eine Überbauungsziffer festgelegt werden, oder die Protokollbemerkung könnte sinngemäss als Ergänzung zu Art. 12 (Tribschenstadtzone) in das BZR übergeführt werden. Da es verschiedene Umsetzungsmöglichkeiten gibt, mithin also ein planerischer Spielraum besteht, kann der Regierungsrat keine verbindliche Regelung von sich aus anordnen. Zudem sind die Mitwirkungsrechte der Nachbarschaft mit einer öffentlichen Auflage zu gewährleisten. Die Sache ist daher zur Festlegung von zweckmässigen Bauvorschriften für das Grundstück Nr. 1444 an die Vorinstanz zurückzuweisen.
+5.4 Es mag zutreffen, dass die im Zonenplan festgelegten Baulinien aus dem Bebauungsplan B 132 Tribschen / Bahnhof übernommen wurden. Das Ergebnis des Wettbewerbs "Wohnen im Tribschen" ist damals im Bebauungsplan umgesetzt worden. Mit der Aufhebung des Bebauungsplanes entfällt die unmittelbare planerische Anbindung an diesen Wettbewerb, weshalb sich eine detaillierte Regelung auf Stufe BZR und Zonenplan aufdrängt. Überdies wird mit der Protokollbemerkung des Grossen Stadtrats deutlich zum Ausdruck gebracht, dass auf Grundstück Nr. 1444 grosser Wert auf die Aussenraumgestaltung gemäss der Wettbewerbsidee von 1998 gelegt wird. Damit drängt sich in der BZO eine planerische Festlegung auf, die diesbezüglich Rechtssicherheit für alle Betroffenen herstellt.
