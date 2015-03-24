@@ -1,0 +1,62 @@
+---
+decision_id: "lu_gerichte_RRE_Nr._340"
+court: "LU Gerichte"
+court_id: "lu_gerichte"
+docket: "RRE Nr. 340"
+docket_2: "2015 VI Nr. 3"
+decided: "2015-03-24"
+language: "de"
+source_url: "https://gerichte.lu.ch/recht_sprechung/lgve/Ajax?EnId=10471"
+cites_law: ["switzerland/bund/acts/142.20/art-034.md", "switzerland/bund/acts/210/art-276.md", "switzerland/bund/acts/210/art-296.md"]
+---
+
+# LU Gerichte RRE Nr. 340
+
+## Regeste
+
+Individuelle Einbürgerung von Minderjährigen. In einer Familie mit minderjährigen Kindern im Schulalter prägen im Wesentlichen die Eltern die finanzielle Situation mit ihren Ausgaben und Einnahmen. Es ist daher sachgerecht, bei einer individuellen Einbürgerung von Minderjährigen in diesem Alter den finanziellen Leumund der Eltern bei der Beurteilung der Einbürgerungsvoraussetzungen mitzuberücksichtigen. | § 12 lit. a kBüG, § 15 Abs. 1 kBüG | Bürgerrecht
+
+## Text
+
+Luzern Kantonsgericht sonstige 24.03.2015 RRE Nr. 340 (2015 VI Nr. 3)
+
+Individuelle Einbürgerung von Minderjährigen. In einer Familie mit minderjährigen Kindern im Schulalter prägen im Wesentlichen die Eltern die finanzielle Situation mit ihren Ausgaben und Einnahmen. Es ist daher sachgerecht, bei einer individuellen Einbürgerung von Minderjährigen in diesem Alter den finanziellen Leumund der Eltern bei der Beurteilung der Einbürgerungsvoraussetzungen mitzuberücksichtigen. | § 12 lit. a kBüG, § 15 Abs. 1 kBüG | Bürgerrecht
+
+Rechtsprechung Luzern
+Instanz:
+Regierungsrat
+Abteilung:
+-
+Rechtsgebiet:
+Bürgerrecht
+Entscheiddatum:
+24.03.2015
+Fallnummer:
+RRE Nr. 340
+LGVE:
+2015 VI Nr. 3
+Gesetzesartikel:
+§ 12 lit. a kBüG, § 15 Abs. 1 kBüG
+Leitsatz:
+Individuelle Einbürgerung von Minderjährigen. In einer Familie mit minderjährigen Kindern im Schulalter prägen im Wesentlichen die Eltern die finanzielle Situation mit ihren Ausgaben und Einnahmen. Es ist daher sachgerecht, bei einer individuellen Einbürgerung von Minderjährigen in diesem Alter den finanziellen Leumund der Eltern bei der Beurteilung der Einbürgerungsvoraussetzungen mitzuberücksichtigen.
+Rechtskraft:
+Dieser Entscheid ist rechtskräftig.
+Entscheid:
+Aus den Erwägungen:
+5.3
+Nach Art. 301 des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907 (ZGB; SR 210) leiten die Eltern im Blick auf das Wohl des Kindes seine Pflege und Erziehung und treffen unter Vorbehalt seiner eigenen Handlungsfähigkeit die nötigen Entscheidungen. Sie haben für den Unterhalt des Kindes aufzukommen, inbegriffen die Kosten von Erziehung, Ausbildung und Kindesschutzmassnahmen (Art. 276 Abs. 1 ZGB). Die Familiensituation darf für die Frage der Integration eines minderjährigen Beschwerdeführers herangezogen werden. Es liegt in der Natur von Minderjährigen, dass sie dem elterlichen Haushalt noch nicht entwachsen sind und insofern zu den Eltern sowohl eine emotionale als auch eine finanzielle Abhängigkeit besteht. Den Eltern steht in Bezug auf die Lebensgestaltung ihres Kindes die primäre Entscheidkompetenz gegenüber dem Staat, Dritten und dem Kind zu. Vor diesem Hintergrund hat es das Bundesgericht als zulässig erachtet, wenn die für die Erteilung des Bürgerrechts zuständige Gemeindebehörde auch bei selbständigen Gesuchen von Minderjährigen die gesamte Integrationssituation der Familie, insbesondere deren finanziellen Leumund, in ihrem Entscheid mitberücksichtigt (vgl. Urteil des Bundesgerichts 1D_7/2011 vom 3.11.2011 E. 4.3 ff.).
+Der Beschwerdeführer wendet im Zusammenhang mit dem erwähnten Bundesgerichtsurteil ein, dieses gelange in der vorliegenden Situation nicht zur Anwendung, weil der vorliegende Fall anders gelagert sei als der Sachverhalt, der dem Bundesgerichtsurteil zugrunde liege. Dort sei den Eltern zur Last gelegt worden, dass sie – im Gegensatz zu seinen Eltern – keiner Erwerbstätigkeit nachgehen würden und auch keine darauf gerichteten Bemühungen unternommen hätten.
+6.
+Aus Erwägung 5.3 ergibt sich, dass die Vorinstanz grundsätzlich die gesamte Integrationssituation der Familie bei der Beurteilung des Gesuchs des Beschwerdeführers mitberücksichtigen durfte. Es ist daher in einem weiteren Schritt zu prüfen, ob diese Integrationssituation der Familie die Ablehnung des Gesuchs des Beschwerdeführers rechtfertigt, obwohl die Eltern des Beschwerdeführers im Gegensatz zum Fall im Bundesgerichtsurteil 1D_7/2011 einer Erwerbstätigkeit nachgehen.
+6.1
+Integration ist die Aufnahme ausländischer Personen in die schweizerische Gesellschaft und die Bereitschaft, sich in die schweizerische gesellschaftliche Umwelt einzufügen, ohne deswegen die angestammte kulturelle Eigenart und Staatsangehörigkeit preiszugeben. Vertrautsein meint als Folge der Eingliederung die Übernahme schweizerischer Lebensgewohnheiten, Sitten und Gebräuche (Botschaft des Bundesrates zur Änderung des Bürgerrechtsgesetzes vom 26.8.1987, in: BBl 1987 III 293 S. 304 f.). Von der ausländischen Bevölkerung in der Schweiz wird erwartet, dass sie sich in die hiesigen Verhältnisse integriert. Gemäss Art. 4 des Bundesgesetzes über die Ausländerinnen und Ausländer (AuG; SR 142.20) in Verbindung mit Art. 4 der Verordnung über die Integration von Ausländerinnen und Ausländern (VIntA; SR 142.205) zeigt sich ihr Beitrag zur Integration in der Respektierung der rechtsstaatlichen Ordnung und der Werte der Bundesverfassung, im Erlernen der am Wohnort gesprochenen Landessprache, in der Auseinandersetzung mit den Lebensbedingungen in der Schweiz und im Willen zur Teilnahme am Wirtschaftsleben und zum Erwerb von Bildung. Erfüllt eine ausländische Person diese Integrationsvoraussetzungen, kann ihr die Niederlassungsbewilligung bereits nach fünf - statt ordentlicherweise nach zehn Jahren - erteilt werden (vgl. Art. 34 AuG). Der Begriff Integration umfasst viele Aspekte. Notwendig ist in jedem Fall eine Gesamtbeurteilung der Integrationssituation (vgl. dazu Handbuch Bürgerrecht des Bundesamtes für Migration, Stand 27.12.2013, Ziff. 4.7.2.1, S. 23; Leitfaden "Einschätzung des Integrationsstandes" des Justiz- und Sicherheitsdepartementes, Amt für Gemeinden, 2014). Es gibt einerseits die strukturelle Integration, womit die Eingliederung in die Grundstrukturen unserer Gesellschaft gemeint ist (Eingliederung in die Arbeitswelt, Ausbildung, Wohnsituation, Beachten der Rechtsordnung). Es gibt aber auch die soziale und kulturelle Integration, welche die Teilnahme am gesellschaftlichen Leben betrifft (Familie, Freunde, Kolleginnen und Kollegen bei der Arbeit und in der Freizeit, Nachbarschaft, Vereine, Kirchen und andere Religionsgemeinschaften). Es ist davon auszugehen, dass die Familie einen Einfluss auf die Integration von Kindern hat.
+6.2
+Die Vorinstanz orientierte sich bei ihrem Entscheid und ihrer Begründung am ersten Einbürgerungsverfahren der Familie des Beschwerdeführers, das diese vier Jahre früher eingeleitet hatte. Dieses wurde von der Familie schliesslich zurückgezogen, nachdem ihr die Vorinstanz mitgeteilt hatte, dass die Einbürgerungsvoraussetzungen wegen der vielen Betreibungen und offenen Verlustscheine nicht erfüllt seien und ihr Gesuch daher abgelehnt werden müsste.
+6.2.1 Der finanzielle Leumund wird im Bundesrecht unter die Voraussetzung der Beachtung der schweizerischen Rechtsordnung subsumiert (Art. 14 lit. c Bundesgesetz über Erwerb und Verlust des Schweizer Bürgerrechts [Bürgerrechtsgesetz, BüG; SR 141.0], § 12 lit. c kantonales Bürgerrechtsgesetz [kBüG; SRL Nr. 2]). Im kantonalen Recht wird der gute Ruf mit dem Betreibungsregisterauszug geprüft. Hängige Betreibungen, Verlustscheine oder ein Konkurs sind grundsätzlich ein Hindernis für die Einbürgerung. Von dieser Regelung kann in Ausnahmefällen abgewichen werden. Solche Ausnahmefälle werden durch spezielle Notsituationen oder Unverschulden begründet. Die Gemeinden haben den Sachverhalt abzuklären. Betreibungen, gegen die Rechtsvorschlag erhoben wurde, sind bei der Beurteilung des Gesuchs nicht zu beachten, sofern der Rechtsvorschlag vor mehr als einem Jahr erfolgt ist und die Betreibung nicht fortgesetzt wurde (Rechtsöffnungsverfahren vor dem Gericht). Verlustscheine, die älter als fünf Jahre sind, sind gemäss Praxis des Bundes kein Hindernis für die Einbürgerung, wenn während dieser Zeit keine neuen Verlustscheine oder Betreibungen dazu gekommen sind. Der Bund kann in besonderen Fällen die Einbürgerungsbewilligung verweigern, wenn z.B. Verlustscheine von mehr als Fr. 50'000.-- bestehen (Merkblätter Einbürgerungsvoraussetzungen im Schulungsordner für Bürgerrechtskommissionen, Merkblatt "Betreibungsrechtlicher Leumund und Steuerschulden", herausgegeben vom Justiz- und Sicherheitsdepartement, Amt für Gemeinden, Stand 2008; Handbuch Bürgerrecht des Bundesamtes für Migration, Stand 27.12.2013, Ziff. 4.7.3.2, S. 38).
+6.2.2 Die Eltern des Beschwerdeführers gehen einer im Stundenlohn entlöhnten Teilzeiterwerbstätigkeit nach. Trotzdem reicht das Einkommen offenbar nicht aus, um alle Verpflichtungen, welche sie eingehen, zu begleichen. (…) Der Beschwerdeführer räumt im Gesuch um unentgeltliche Rechtspflege selbst ein, dass seine Eltern verschuldet seien.
+6.2.3 Zusammenfassend ergibt sich, dass gegen die Eltern des Beschwerdeführers während mehrerer Jahre bis in die heutige Zeit Betreibungen eingeleitet und Verlustscheine mit einem hohen Betrag ausgestellt werden mussten. Auch wenn gewisse Betreibungen, bei denen Rechtsvorschlag erhoben worden ist, aufgrund der obigen Ausführungen nicht mehr zu beachten sind, weisen die Eltern des Beschwerdeführers über Jahre hinweg zahlreiche Betreibungsregistereinträge auf, die grundsätzlich ein Hindernis für eine Einbürgerung darstellen. Die Eltern gehen zwar einer Teilzeiterwerbstätigkeit nach und erhalten auch wirtschaftliche Sozialhilfe ausbezahlt, um ihr soziales Existenzminimum zu sichern. Die Tatsache, dass gegen sie trotzdem wiederholt und während Jahren Betreibungen eingeleitet werden mussten, zeigt indessen, dass sie über ihren finanziellen Verhältnissen leben und diese damit nicht im Griff haben. (…) Bei dieser Ausgangslage erfüllen die Eltern des Beschwerdeführers zusammenfassend die Voraussetzungen für einen einwandfreien finanziellen Leumund nicht. Kinder stehen, solange sie minderjährig sind, unter der elterlichen Sorge (Art. 296 Abs. 1 ZGB). Wie bereits in Erwägung 5.3 festgehalten wurde, haben die Eltern mit Blick auf das Wohl des Kindes unter anderem seine Erziehung zu leiten und für den Unterhalt des Kindes aufzukommen (Art. 276 Abs. 1 ZGB). In einer Familie mit minderjährigen Kindern im Schulalter prägen im Wesentlichen die Eltern den finanziellen Leumund mit ihren Ausgaben und Einnahmen. Das Kind steht in einer finanziellen Abhängigkeit zu seinen Eltern. Mit der Verschuldung gefährden die Eltern nicht nur ihre eigene wirtschaftliche Erhaltungsfähigkeit, sondern auch diejenige ihrer minderjährigen Kinder. Es ist daher sachgerecht, wenn die Vorinstanz den finanziellen Leumund der Eltern bei der Beurteilung der Einbürgerungsvoraussetzungen des minderjährigen Beschwerdeführers mitberücksichtigt.
+(…)
+​
+6.5
+(…) Insgesamt erfüllen die Eltern des Beschwerdeführers die Voraussetzungen für einen einwandfreien finanziellen Leumund nicht. Da der Beschwerdeführer bis zu seiner Volljährigkeit und somit bis auf weiteres unter der elterlichen Sorge seiner Eltern steht, wirkt sich der schlechte finanzielle Leumund der Eltern auch nachteilig auf den Beschwerdeführer aus und gefährdet seine wirtschaftliche Selbsterhaltungsfähigkeit. In einer Familie mit minderjährigen Kindern im Schulalter prägen im Wesentlichen die Eltern den finanziellen Leumund mit ihren Ausgaben und Einnahmen. Der Beschwerdeführer hat es in der Hand, zu einem späteren Zeitpunkt, wenn sich die familiäre Situation in Bezug auf die finanziellen Verhältnisse allenfalls verbessert hat oder wenn er selber erwerbstätig ist, ein neues Einbürgerungsgesuch zu stellen. Auch wenn Kinder und Jugendliche, die von finanziell schwachen Eltern stammen, es dadurch schwer haben, von ihrem grundsätzlichen Anspruch gemäss § 15 Abs. 1 kBüG Gebrauch zu machen, ist es nicht zu beanstanden, wenn die finanziellen Umstände von der Einbürgerungsbehörde mitberücksichtigt werden. Wenn die Vorinstanz unter den gegebenen Umständen die Erfüllung der Einbürgerungsvoraussetzungen als ungenügend beurteilt und das Einbürgerungsgesuch des Beschwerdeführers abgelehnt hat, so hat sie daher ihr Ermessen pflichtgemäss und im Einklang mit dem Sinn und Zweck des eidgenössischen und kantonalen Bürgerrechtsgesetzes ausgeübt.
+Bei dieser Sachlage ist die Beschwerde abzuweisen.
